@@ -1,0 +1,76 @@
+﻿@charset "utf-8";
+
+/* ===================================================================
+	Author: aki
+=================================================================== */
+
+
+/*初期化*/
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,fieldset,input,textarea,p,table,th,tr,td {
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	font-style:normal;
+	list-style:none;
+	font-weight:normal;
+	font-size:100%;
+}
+
+table{
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+caption,th{
+	text-align:left;
+}
+
+fieldset,img{
+	border:0;
+}
+
+img{
+	vertical-align:top;
+}
+
+select option{
+	padding:0 5px;
+}
+
+form label{
+	cursor:pointer;
+}
+
+input,textarea{
+	font-size:100%;
+	font-family:inherit;
+}
+
+
+a{
+	margin:0;
+	padding:0;
+}
+.t-right{
+	text-align:right;
+}
+.t-center{
+	text-align:center;
+}
+
+/*基本設定*/
+
+.cf:after {
+	content: " ";
+	display: block;
+	clear: both;
+	height: 0px;
+	visibility:hidden;
+	line-height:0px;
+}
+.cf { display: inline-block; }
+/* exlude MacIE5 */
+* html .cf { height: 1% }
+.cf {display:block;}
+/* end MacIE5 */

@@ -29,6 +29,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Megrim&display=swap" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap" rel="stylesheet" />
   <!-- ファビコン読込 -->
+  <!-- HTML：CDNリンクを貼り付け -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.4.1/dist/css/yakuhanjp.min.css">
   <meta http-equiv="imagetoolbar" content="no" />
   <!-- 検索有無設定 -->
   <!-- jquery読込 -->
@@ -282,15 +284,15 @@
     }
 
     .noto_bold {
-      font-family: "noto_bold";
+      font-family:  YakuHanJP, "noto_bold";
     }
 
     .noto_regular {
-      font-family: "noto_regular";
+      font-family: YakuHanJP, "noto_regular";
     }
 
     .noto_medium {
-      font-family: "noto_medium";
+      font-family: YakuHanJP, "noto_medium";
     }
 
     .flex_start {
@@ -443,6 +445,37 @@
         right: -10px !important;
       }
     }
+
+    .sect_6_card01_sp::after, .sect_6_card02_sp::after {
+        content: "";
+        width: 4vw;
+        height: 4vw;
+        border: 1px solid #444;
+        border-top: transparent;
+        border-right: transparent;
+        background-color: #fff;
+        position: absolute;
+        bottom: -2.2vw;
+        left: 49%;
+        transform: translate(0, -50%);
+        transform: rotate(-45deg);   
+      }
+
+      @media screen and (max-width: 426px) {
+        .sect_6_card01_sp::after {
+          bottom: -4vw;
+          width: 7vw;
+          height: 7vw;
+          left: 44%;
+        }
+
+        .sect_6_card02_sp::after {
+          bottom: -3.9vw;
+          width: 7vw;
+          height: 7vw;
+          left: 44%;
+        }
+      }
   </style>
 
   <!-- <style>

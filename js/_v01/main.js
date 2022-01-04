@@ -72,8 +72,7 @@ jQuery(function($){
 			arrows:true,
 			infinite: true,
 			slidesToScroll:1,
-			centerMode:true,
-			slidesToShow:3,
+			slidesToShow:2,
 			responsive: [
 				{
 					breakpoint: 1051,

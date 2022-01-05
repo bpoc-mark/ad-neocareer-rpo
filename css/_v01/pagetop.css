@@ -116,9 +116,6 @@
   .form_width .form_group .c_width_25 {
 	width: 25% !important;
 	padding-right: 1.5vw;
-    display: flex;
-    justify-content: space-between;
-	align-items: center;
   }
 
   .form_width .form_group .c_width_25 label {
@@ -127,6 +124,11 @@
 
   .form_group .select_parent {
 	  width: 55%;
+  }
+
+  .form_group .left_info_flex {
+	justify-content: space-between; 
+	padding-top: 0.49vw;
   }
 
   .form_group select {
@@ -165,6 +167,13 @@
 	  .form_group .select_parent {
 		width: 100%;
 	}
+	.form_group .left_info_flex {
+		justify-content: flex-start; 
+	  }
+
+	  .form_group .left_info {
+		justify-content: flex-start !important; 
+	  }
   }
   
   .form_width .form_group .c_width_75 {

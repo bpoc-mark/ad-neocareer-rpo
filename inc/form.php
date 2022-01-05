@@ -1398,6 +1398,206 @@
         </div>
       </div>
     </section>
+    <section class="sect_5">
+      <div class="view_pc">
+        <div class="cont_wrapper_55">
+          <div class="wrapper_100">
+            <div class="flex flex_center">
+              <div class="width_47">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
+                  <img class="width_70 undrag" src="../img/sect_5/sect_5_ttl-1.png" alt="">
+                  <div class="space_1"></div>
+                  <p class="noto_medium font_65 line_h_200">メディア選定〜応募者対応を行います。媒体や管理システム操作に精通したスタッフが、応募受付センターとして、電話・メール等で応募者対応を行います。貴社はコア業務である<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">戦略や面接・選考に専念できる環境</span>を整えます。</p>
+                  <div class="space_4"></div>
+                  <div class="wrapper_90">
+                    <img class="width_100 undrag" src="../img/sect_5/sect_5_work-1.png" alt="">
+                  </div>
+                  <div class="space_2"></div>
+                  <ul>
+                    <li class="noto_regular font_75 line_h_200">■市場調査、最適なメディア選定</li>
+                    <li class="noto_regular font_75 line_h_200">■応募受付、情報管理、書類選考</li>
+                    <li class="noto_regular font_75 line_h_200">■Web適正検査管理、受領依頼</li>
+                    <li class="noto_regular font_75 line_h_200">■面接日程調整</li>
+                    <li class="noto_regular font_75 line_h_200">■面接前日リマインド通知</li>
+                    <li class="noto_regular font_75 line_h_200">■合格不合格通知</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="width_6"></div>
+              <div class="width_47">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
+                  <img class="width_80 undrag" src="../img/sect_5/sect_5_ttl-2.png" alt="">
+                  <div class="space_1"></div>
+                  <p class="noto_medium font_65 line_h_200">応募受付対応サービスにおける業務の他、特に人材紹介をメインの採用手法としてご利用頂いている企業様向けに、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">各エージェントとの最適なコミュニケーション</span>をお取り致します。その他、新規人材紹介会社の開拓・紹介実績に基づく精査参考データのご提出等も対応可能です。</p>
+                  <div class="space_2"></div>
+                  <div class="wrapper_90">
+                    <img class="width_100 undrag" src="../img/sect_5/sect_5_work-2.png" alt="">
+                  </div>
+                  <div class="space_2"></div>
+                  <ul>
+                    <li class="noto_regular font_75 line_h_200">■新規人材紹介会社の開拓</li>
+                    <li class="noto_regular font_75 line_h_200">■エージェントへの紹介促進連絡</li>
+                    <li class="noto_regular font_75 line_h_200">■エージェントへの求人票通知</li>
+                    <li class="noto_regular font_75 line_h_200">■合格不合格通知の際の所感提示</li>
+                    <li class="noto_regular font_75 line_h_200">■各社紹介実績データの取り纏め</li>
+                    <li class="noto_regular font_75 line_h_200">■その他、各エージェントとのコミュニケーション</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="space_3"></div>
+            <div class="flex">
+              <div class="width_47">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
+                  <img class="width_80 undrag" src="../img/sect_5/sect_5_ttl-3.png" alt="">
+                  <div class="space_1"></div>
+                  <p class="noto_medium font_65 line_h_200">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
+                  <div class="space_2"></div>
+                  <div class="wrapper_90">
+                    <img class="width_100 undrag" src="../img/sect_5/sect_5_work-3.png" alt="">
+                  </div>
+                  <div class="space_2"></div>
+                  <ul>
+                    <li class="noto_regular font_75 line_h_200">■適したダイレクトリクルーティング媒体の選定</li>
+                    <li class="noto_regular font_75 line_h_200">■スカウト文面やメールテンプレート等の設定</li>
+                    <li class="noto_regular font_75 line_h_200">■スカウトの個別カスタマイズ、配信</li>
+                    <li class="noto_regular font_75 line_h_200">■求人票の更新</li>
+                    <li class="noto_regular font_75 line_h_200">■スカウト返信率のPDCA施策、提案</li>
+                    <li class="noto_regular font_75 line_h_200">■応募者受付対応</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="width_6"></div>
+              <div class="width_47">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
+                  <img class="width_70 undrag" src="../img/sect_5/sect_5_ttl-4.png" alt="">
+                  <div class="space_1"></div>
+                  <p class="noto_medium font_65 line_h_200">内定者に対し、内定意思確認や入社前事項の確認、必要に応じて貴社管理部と連携しながら、入社書類の準備や発送手続きを代行致します。<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">入社当日まで、ワンストップでフォロー</span>させて頂く事が可能です。</p>
+                  <div class="space_4"></div>
+                  <div class="wrapper_90">
+                    <img class="width_100 undrag" src="../img/sect_5/sect_5_work-4.png" alt="">
+                  </div>
+                  <div class="space_2"></div>
+                  <ul>
+                    <li class="noto_regular font_75 line_h_200">■内定の旨ご連絡</li>
+                    <li class="noto_regular font_75 line_h_200">■入社意思確認の回収、追い掛け連絡</li>
+                    <li class="noto_regular font_75 line_h_200">■入社前事前確認事項の回収</li>
+                    <li class="noto_regular font_75 line_h_200">■入社書類の準備</li>
+                    <li class="noto_regular font_75 line_h_200">■入社書類の発送、回収</li>
+                    <li class="noto_regular font_75 line_h_200">■その他、入社当日までのフォロー連絡</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="space_5"></div>
+            <div class="space_2"></div>
+            <div class="wrapper_45">
+              <img class="width_100 undrag" src="../img/sect_5/sect_title-2.png" alt="">
+            </div>
+            <div class="space_3"></div>
+            <img class="width_85 undrag" src="../img/sect_5/sect_5_graph.png" alt="">
+            <div class="space_2"></div>
+            <div class="wrapper_100">
+              <img class="width_80 undrag" src="../img/sect_5/sect_tittle-3.png" alt="">
+            </div>
+            <div class="space_5"></div>
+          </div>
+        </div>
+      </div>
+      <div class="view_tabsp">
+        <div class="wrapper_90">
+          <!-- ITEM 1 -->
+          <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 5px 5px 10px 5px rgb(0 0 0 / 20%);">
+            <img class="width_70 undrag" src="../img/sect_5/sect_5_ttl-1.png" alt="">
+            <div class="space_1"></div>
+            <p class="noto_medium font_65 line_h_200">メディア選定〜応募者対応を行います。媒体や管理システム操作に精通したスタッフが、応募受付センターとして、電話・メール等で応募者対応を行います。貴社はコア業務である<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">戦略や面接・選考に専念できる環境</span>を整えます。</p>
+            <div class="space_4"></div>
+            <div class="wrapper_90">
+              <img class="width_100 undrag" src="../img/sect_5/sect_5_work-1.png" alt="">
+            </div>
+            <div class="space_2"></div>
+            <ul>
+              <li class="noto_regular font_75 line_h_200">■市場調査、最適なメディア選定</li>
+              <li class="noto_regular font_75 line_h_200">■応募受付、情報管理、書類選考</li>
+              <li class="noto_regular font_75 line_h_200">■Web適正検査管理、受領依頼</li>
+              <li class="noto_regular font_75 line_h_200">■面接日程調整</li>
+              <li class="noto_regular font_75 line_h_200">■面接前日リマインド通知</li>
+              <li class="noto_regular font_75 line_h_200">■合格不合格通知</li>
+            </ul>
+          </div>
+          <div class="space_5"></div>
+          <!-- ITEM 2 -->
+          <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 5px 5px 20px 5px rgb(0 0 0 / 20%);">
+            <img class="width_80 undrag" src="../img/sect_5/sect_5_ttl-2.png" alt="">
+            <div class="space_1"></div>
+            <p class="noto_medium font_65 line_h_200">応募受付対応サービスにおける業務の他、特に人材紹介をメインの採用手法としてご利用頂いている企業様向けに、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">各エージェントとの最適なコミュニケーション</span>をお取り致します。その他、新規人材紹介会社の開拓・紹介実績に基づく精査参考データのご提出等も対応可能です。</p>
+            <div class="space_2"></div>
+            <div class="wrapper_90">
+              <img class="width_100 undrag" src="../img/sect_5/sect_5_work-2.png" alt="">
+            </div>
+            <div class="space_2"></div>
+            <ul>
+              <li class="noto_regular font_75 line_h_200">■新規人材紹介会社の開拓</li>
+              <li class="noto_regular font_75 line_h_200">■エージェントへの紹介促進連絡</li>
+              <li class="noto_regular font_75 line_h_200">■エージェントへの求人票通知</li>
+              <li class="noto_regular font_75 line_h_200">■合格不合格通知の際の所感提示</li>
+              <li class="noto_regular font_75 line_h_200">■各社紹介実績データの取り纏め</li>
+              <li class="noto_regular font_75 line_h_200">■その他、各エージェントとのコミュニケーション</li>
+            </ul>
+          </div>
+          <div class="space_5"></div>
+          <!-- ITEM 3 -->
+          <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 5px 5px 20px 5px rgb(0 0 0 / 20%);">
+            <img class="width_80 undrag" src="../img/sect_5/sect_5_ttl-3.png" alt="">
+            <div class="space_1"></div>
+            <p class="noto_medium font_65 line_h_200">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
+            <div class="space_2"></div>
+            <div class="wrapper_90">
+              <img class="width_100 undrag" src="../img/sect_5/sect_5_work-3.png" alt="">
+            </div>
+            <div class="space_2"></div>
+            <ul>
+              <li class="noto_regular font_75 line_h_200">■適したダイレクトリクルーティング媒体の選定</li>
+              <li class="noto_regular font_75 line_h_200">■スカウト文面やメールテンプレート等の設定</li>
+              <li class="noto_regular font_75 line_h_200">■スカウトの個別カスタマイズ、配信</li>
+              <li class="noto_regular font_75 line_h_200">■求人票の更新</li>
+              <li class="noto_regular font_75 line_h_200">■スカウト返信率のPDCA施策、提案</li>
+              <li class="noto_regular font_75 line_h_200">■応募者受付対応</li>
+            </ul>
+          </div>
+          <div class="space_5"></div>
+          <!-- ITEM 4 -->
+          <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 5px 5px 20px 5px rgb(0 0 0 / 20%);">
+            <img class="width_70 undrag" src="../img/sect_5/sect_5_ttl-4.png" alt="">
+            <div class="space_1"></div>
+            <p class="noto_medium font_65 line_h_200">内定者に対し、内定意思確認や入社前事項の確認、必要に応じて貴社管理部と連携しながら、入社書類の準備や発送手続きを代行致します。<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">入社当日まで、ワンストップでフォロー</span>させて頂く事が可能です。</p>
+            <div class="space_4"></div>
+            <div class="wrapper_90">
+              <img class="width_100 undrag" src="../img/sect_5/sect_5_work-4.png" alt="">
+            </div>
+            <div class="space_2"></div>
+            <ul>
+              <li class="noto_regular font_75 line_h_200">■内定の旨ご連絡</li>
+              <li class="noto_regular font_75 line_h_200">■入社意思確認の回収、追い掛け連絡</li>
+              <li class="noto_regular font_75 line_h_200">■入社前事前確認事項の回収</li>
+              <li class="noto_regular font_75 line_h_200">■入社書類の準備</li>
+              <li class="noto_regular font_75 line_h_200">■入社書類の発送、回収</li>
+              <li class="noto_regular font_75 line_h_200">■その他、入社当日までのフォロー連絡</li>
+            </ul>
+          </div>
+          <div class="space_5"></div>
+          <div class="space_3"></div>
+          <div class="wrapper_100">
+            <img class="width_100 undrag" src="../img/sect_5/sect_5_title-2-sp.png" alt="">
+            <div class="space_2"></div>
+            <img class="width_100 undrag" src="../img/sect_5/sect_5_graph-sp.png" alt="">
+            <div class="space_3"></div>
+            <img class="width_100 undrag" src="../img/sect_5/sect_5_title-3-sp.png" alt="">
+            <div class="space_5"></div>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="sect_6" style="background-color: #f6f1ed">
       <div class="view_pc txt_tpad_5 txt_bpad_5">
         <div class="cont_wrapper_55">
@@ -2403,43 +2603,63 @@
                     <form method="post" action="#form" enctype="multipart/form-data">
                         <div class="flex form_group">
                             <div class="c_width_25 txt_left">
-                                <label for="" class="noto_medium font_75 color_1">お問合せ内容</label>
-                                <span class="need noto_medium">必須</span>
+                                <div class="flex left_info" style="justify-content: space-between;">
+                                    <label for="" class="noto_medium font_75 color_1">お問合せ内容</label>
+                                    <span class="need noto_medium">必須</span>
+                                </div>
                             </div>
                             <div class="c_width_75">
                                 <div class="checkbox-wrap">
+                                    <?php
+                                        if (empty($_POST['purpose'])) {
+                                            $_POST['purpose'] = array();
+                                        }
+                                    ?>
                                     <div class="checkbox-wrap-item txt_left">
-                                        <input type="checkbox" id="" name="inquiry" value="資料請求" <?php if (!empty($clean['inquiry']) && $clean['inquiry'] === "資料請求") {
-                                                                                    echo 'checked';
-                                                                                } ?>>
+                                        <input type="checkbox" id="" name="purpose[]" value="資料請求" <?php if (array_search('資料請求', $_POST['purpose']) !== false) {
+                                                                                                        echo 'checked';
+                                                                                                    } ?>>
                                         <label for="" class="noto_regular font_75 txt_rpad_1" style="color: #717171;">資料請求</label>
+
+
+                                      
                                     </div>
                                     <div class="checkbox-wrap-item txt_left">
-                                        <input type="checkbox" id="" name="inquiry" value="見積もり依頼" <?php if (!empty($clean['inquiry']) && $clean['inquiry'] === "見積もり依頼") {
-                                                                                    echo 'checked';
-                                                                                } ?>>
+                                        <input type="checkbox" id="" name="purpose[]" value="見積もり依頼" <?php if (array_search('見積もり依頼', $_POST['purpose']) !== false) {
+                                                                                                        echo 'checked';
+                                                                                                    } ?>>
                                         <label for="" class="noto_regular font_75 txt_rpad_1" style="color: #717171;">見積もり依頼</label>
                                     </div>
                                     <div class="checkbox-wrap-item txt_left">
-                                        <input type="checkbox" id="" name="inquiry" value="ご相談全般" <?php if (!empty($clean['inquiry']) && $clean['inquiry'] === "ご相談全般") {
-                                                                                    echo 'checked';
-                                                                                } ?>>
+                                        <input type="checkbox" id="" name="purpose[]" value="ご相談全般" <?php if (array_search('ご相談全般', $_POST['purpose']) !== false) {
+                                                                                                        echo 'checked';
+                                                                                                    } ?>>
                                         <label for="" class="noto_regular font_75 txt_rpad_1" style="color: #717171;">ご相談全般</label>
                                     </div>
                                     <div class="checkbox-wrap-item txt_left">
-                                        <input type="checkbox" id="" name="inquiry" value="その他" <?php if (!empty($clean['inquiry']) && $clean['inquiry'] === "その他") {
-                                                                                    echo 'checked';
-                                                                                } ?>>
+                                        <input type="checkbox" id="" name="purpose[]" value="その他" <?php if (array_search('その他', $_POST['purpose']) !== false) {
+                                                                                                        echo 'checked';
+                                                                                                    } ?>>
                                         <label for="" class="noto_regular font_75 txt_rpad_1" style="color: #717171;">その他</label>
                                     </div>
+                                </div>
+                                <div class="width_100">
+                                <div class="width_100">
+                                <?php if (!empty($error['purpose'])) : ?>
+                                    <p class="error_msg bold txt_left font_75" style="margin: 0 0 0 auto; padding-top: 5px;">
+                                        <?php echo $error['purpose']; ?></p>
+                                <?php endif; ?>
+                            </div>
                                 </div>
                             </div>
                         </div>
                         <div class="flex form_group">
                             <div class="c_width_25 txt_left">
                                 <!-- <div class="space_05 view_pc"></div> -->
-                                <label for="" class="noto_medium font_75 color_1">会社名</label>
-                                <span class="need noto_medium">必須</span>
+                                <div class="flex left_info_flex">
+                                    <label for="" class="noto_medium font_75 color_1">会社名</label>
+                                    <span class="need noto_medium">必須</span>
+                                </div>
                             </div>
                             <div class="c_width_75">
                                 <input type="text" name="company_name" class="width_100" value="<?php if (!empty($clean['company_name'])) {
@@ -2456,8 +2676,10 @@
                         <div class="flex form_group">
                             <div class="c_width_25 txt_left">
                                 <!-- <div class="space_05 view_pc"></div> -->
-                                <label for="" class="noto_medium font_75 color_1">氏名</label>
-                                <span class="need noto_medium">必須</span>
+                                <div class="flex left_info_flex">
+                                    <label for="" class="noto_medium font_75 color_1">氏名</label>
+                                    <span class="need noto_medium">必須</span>
+                                </div>
                             </div>
                             <div class="c_width_75">
                                 <div class="c_w_input_60 flex" style="justify-content: space-between;">
@@ -2483,8 +2705,11 @@
                         <div class="flex form_group">
                             <div class="c_width_25 txt_left">
                                 <!-- <div class="space_05 view_pc"></div> -->
-                                <label for="" class="noto_medium font_75 color_1">メールアドレス</label>
-                                <span class="need noto_medium">必須</span>
+                                <div class="flex left_info_flex">
+                                    <label for="" class="noto_medium font_75 color_1">メールアドレス</label>
+                                    <span class="need noto_medium">必須</span>
+                                </div>
+                                
                             </div>
                             <div class="c_width_75">
                                 <input type="email" name="email" class="width_100" value="<?php if (!empty($clean['email'])) {
@@ -2501,8 +2726,10 @@
                         <div class="flex form_group">
                             <div class="c_width_25 txt_left">
                                 <!-- <div class="space_05 view_pc"></div> -->
-                                <label for="" class="noto_medium font_75 color_1">電話番号</label>
-                                <span class="need noto_medium">必須</span>
+                                <div class="flex left_info_flex">
+                                    <label for="" class="noto_medium font_75 color_1">電話番号</label>
+                                    <span class="need noto_medium">必須</span>
+                                </div>
                             </div>
                             <div class="c_width_75">
                                 <div class="c_w_input_80 flex" style="justify-content: space-between;align-items: center;">
@@ -2540,53 +2767,55 @@
                             <div class="c_width_75">
                                 <div class="c_w_input_80 flex" style="justify-content: space-between;align-items: center;">
                                     <div class="width_30">
-                                        <input type="text" id="tel1" name="tel1" value="<?php if (!empty($clean['tel1'])) {
-                                                                                    echo $clean['tel1'];
+                                        <input type="text" id="tel4" name="tel4" value="<?php if (!empty($clean['tel4'])) {
+                                                                                    echo $clean['tel4'];
                                                                                 } ?>" maxlength="3" class="width_100" placeholder="090">
                                     </div>
                                     -
                                     <div class="width_30">
-                                        <input type="text" id="tel2" name="tel2" value="<?php if (!empty($clean['tel2'])) {
-                                                                                    echo $clean['tel2'];
+                                        <input type="text" id="tel5" name="tel5" value="<?php if (!empty($clean['tel5'])) {
+                                                                                    echo $clean['tel5'];
                                                                                 } ?>"  class="width_100" placeholder="0000">
                                     </div>
                                     -
                                     <div class="width_30">
-                                        <input type="text" id="tel3" name="tel3" value="<?php if (!empty($clean['tel3'])) {
-                                                                                    echo $clean['tel3'];
+                                        <input type="text" id="tel6" name="tel6" value="<?php if (!empty($clean['tel6'])) {
+                                                                                    echo $clean['tel6'];
                                                                                 } ?>"  class="width_100" placeholder="0000">
                                     </div>
-                                </div>
-                                <div class="width_100">
-                                    <?php if (!empty($error['tel'])) : ?>
-                                        <p class="error_msg bold txt_left font_75" style="margin: 0 0 0 auto; padding-top: 5px;">
-                                            <?php echo $error['tel']; ?></p>
-                                    <?php endif; ?>
                                 </div>
                             </div>
                         </div>
                         <div class="space_2 view_tabsp"></div>
                         <div class="flex form_group">
                             <div class="c_width_25 txt_left">
-                                <!-- <div class="space_05 view_pc"></div> -->
-                                <label for="" class="noto_medium font_75 color_1">会社所在地</label>
-                                <span class="need noto_medium">必須</span>
+                                <!-- <div class="space_05 view_pc"></div> --> 
+                                <div class="flex left_info_flex">
+                                    <label for="" class="noto_medium font_75 color_1">会社所在地</label>
+                                    <span class="need noto_medium">必須</span>
+                                </div>
                             </div>
                             <div class="c_width_75">
                                 <div class="c_w_input_60 flex" style="justify-content: space-between;">
                                     <div class="select_parent">
-                                        <select name="f_name" class="width_100">
-                                            <option value="" disabled selected>お選びください</option>
-                                            <option value="">Option 1</option>
-                                            <option value="">Option 2</option>
-                                            <option value="">Option 3</option>
+                                        <select name="company_location" class="width_100">
+                                            <option disabled selected>お選びください</option>
+                                            <option value="Option 1"  <?php if (!empty($clean['company_location']) && $clean['company_location'] === "Option 1") {
+                                                            echo 'selected';
+                                                        } ?>>Option 1</option>
+                                            <option value="Option 2"  <?php if (!empty($clean['company_location']) && $clean['company_location'] === "Option 2") {
+                                                            echo 'selected';
+                                                        } ?>>Option 2</option>
+                                            <option value="Option 3"  <?php if (!empty($clean['company_location']) && $clean['company_location'] === "Option 3") {
+                                                            echo 'selected';
+                                                        } ?>>Option 3</option>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="width_100">
-                                    <?php if (!empty($error['fullname'])) : ?>
+                                    <?php if (!empty($error['company_location'])) : ?>
                                         <p class="error_msg bold txt_left font_75" style="margin: 0 0 0 auto; padding-top: 5px;">
-                                            <?php echo $error['fullname']; ?></p>
+                                            <?php echo $error['company_location']; ?></p>
                                     <?php endif; ?>
                                 </div>
                             </div>
@@ -2594,24 +2823,32 @@
                         <div class="flex form_group">
                             <div class="c_width_25 txt_left">
                                 <!-- <div class="space_05 view_pc"></div> -->
+                                <div class="flex left_info_flex">
                                 <label for="" class="noto_medium font_75 color_1">業種</label>
                                 <span class="need noto_medium">必須</span>
+                                </div>
                             </div>
                             <div class="c_width_75">
                                 <div class="c_w_input_60 flex" style="justify-content: space-between;">
                                     <div class="select_parent">
-                                        <select name="f_name" class="width_100">
-                                            <option value="" disabled selected>お選びください</option>
-                                            <option value="">Option 1</option>
-                                            <option value="">Option 2</option>
-                                            <option value="">Option 3</option>
+                                        <select name="industry" class="width_100">
+                                        <option disabled selected>お選びください</option>
+                                            <option value="Option 1"  <?php if (!empty($clean['industry']) && $clean['industry'] === "Option 1") {
+                                                            echo 'selected';
+                                                        } ?>>Option 1</option>
+                                            <option value="Option 2"  <?php if (!empty($clean['industry']) && $clean['industry'] === "Option 2") {
+                                                            echo 'selected';
+                                                        } ?>>Option 2</option>
+                                            <option value="Option 3"  <?php if (!empty($clean['industry']) && $clean['industry'] === "Option 3") {
+                                                            echo 'selected';
+                                                        } ?>>Option 3</option>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="width_100">
-                                    <?php if (!empty($error['fullname'])) : ?>
+                                    <?php if (!empty($error['industry'])) : ?>
                                         <p class="error_msg bold txt_left font_75" style="margin: 0 0 0 auto; padding-top: 5px;">
-                                            <?php echo $error['fullname']; ?></p>
+                                            <?php echo $error['industry']; ?></p>
                                     <?php endif; ?>
                                 </div>
                             </div>
@@ -2683,6 +2920,23 @@
           $('.nav_sp').toggleClass('isActive')
           $('.change').toggleClass('isActive');
       })
+
+      $.fn.scrollView = function() {
+            return this.each(function() {
+                $('html, body').animate({
+                    scrollTop: $(this).offset().top - 300
+                }, 1000);
+            });
+        }
+
+        function check() {
+            if ($('.error_msg').is(':visible')) {
+                // we're empty. do stuff.
+                $('.error_msg:visible:first').scrollView();
+            }
+        }
+
+        check();
     })
     </script>
 

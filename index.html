@@ -394,17 +394,17 @@
 
     .accordion_item_header::after {
       content: "\002B";
-      font-size: 3rem;
+      font-size: 3vw;
       position: absolute;
-      right: 1rem;
+      left: 0;
       font-weight: bold;
-      color: #009de1;
+      color: #444;
     }
 
     .accordion_item_header.active::after {
       content: "\2212";
       font-weight: bold;
-      color: #009de1;
+      color: #444;
     }
 
     .accordion_item_body {
@@ -414,6 +414,13 @@
     }
 
     .accordion_item_body_content {}
+
+    @media screen and (max-width: 1050px) {
+      .accordion_item_header.active {
+        width: auto !important;
+        height: auto !important;
+      }
+    }
 
     @media screen and (max-width: 426px) and (min-width: 320px) {
 
@@ -531,6 +538,27 @@
         }
         }
 
+        /* section 8 arrows */
+        .s8_steps::after {
+          font-size: 2.5vw;
+          content: '>';
+          font-family: 'Megrim', cursive;
+          color: #444;
+          position: absolute;
+          top: -11px;
+          right: 7%;
+        } 
+
+        .s8_steps_sp::after {
+          font-size: 13.5vw;
+          content: '>';
+          font-family: 'Megrim', cursive;
+          position: absolute;
+          right: 48%;
+          color: #fff;
+          bottom: -25%;
+          transform: rotate(90deg);
+        }
         
   </style>
 
@@ -1761,6 +1789,487 @@
       <div class="space_4"></div>
       </div>
     </section>
+    <section class="sect_8">
+      <div class="view_pc txt_bpad_5">
+        <div class="wrapper_100" style="background: #ecf8ff">
+          <div class="space_2"></div>
+          <div class="wrapper_30">
+              <p class="noto_medium font_100" style="color: #444444;">
+                採用代行を詳しく知りたい方はこちら
+              </p>
+          </div>
+          <div class="space_05"></div>
+          <div class="wrapper_50">
+            <div class="wrapper_85">
+              <a href="" class="width_100 block font_125 noto_bold white line_h_300 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">採用代行サービス徹底ガイドお申込み</a>
+            </div>
+          </div>
+          <div class="space_2"></div>
+        </div>
+        <div class="cont_wrapper_55">
+           <!-- title -->
+           <div class="space_4"></div>
+           <div class="wrapper_55">
+            <img src="img/sect_8/title.png" alt="" class="undrag txt_bpad_3 width_100" />
+          </div>
+          <!-- content -->
+          <div>
+            <div class="txt_lpad_2 txt_rpad_2 txt_tpad_4 txt_bpad_1 txt_left" style="background-color: #ff9700;">
+              <div class="space_05"></div>
+            <div class="flex" style="justify-content: space-between;">
+              <!-- step 1 -->
+              <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                  <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
+                    <p class="noto_bold font_100">STEP</p>
+                    <p class="noto_bold font_300" style="line-height: 60%; color: #444;">01</p>
+                  </div>
+                  <div class="space_3"></div>
+                  <img src="img/sect_8/step01.png" alt="" class="undrag txt_bpad_1 width_80" />
+                  <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">お問合せ</p>
+                  <p class="txt_center noto_regular font_65 line_h_150" style="color: #444;">
+                    まずはお気軽にメール<br>
+                    又はお電話にて<br>
+                    お問合せください。
+                  </p>
+                  <div class="space_1"></div>
+              </div>
+
+              <!-- step 2 -->
+              <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_100">STEP</p>
+                  <p class="noto_bold font_300" style="line-height: 60%; color: #444;">02</p>
+                </div>
+                <div class="space_3"></div>
+                <img src="img/sect_8/step02.png" alt="" class="undrag width_53" />
+                <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">ヒアリング</p>
+                <p class="txt_center noto_regular font_65 line_h_150" style="color: #444;">
+                  コンサルタントが潜在課題も<br>
+                  含めて客観的に課題を<br>
+                  見つけていきます。
+                </p>
+                <div class="space_1"></div>
+              </div>
+
+              <!-- step 3 -->
+              <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_100">STEP</p>
+                  <p class="noto_bold font_300" style="line-height: 60%; color: #444;">03</p>
+                </div>
+                <div class="space_3"></div>
+                <img src="img/sect_8/step03.png" alt="" class="undrag txt_bpad_1 width_80" />
+                <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">プランのご提案</p>
+                <p class="txt_center noto_regular font_65 line_h_150" style="color: #444;">
+                  貴社の採用活動に<br>
+                  最適なプランを設計し、<br>
+                  ご提案いたします。
+                </p>
+                <div class="space_1"></div>
+              </div>
+
+              <!-- step 4 -->
+              <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_100">STEP</p>
+                  <p class="noto_bold font_300" style="line-height: 60%; color: #444;">04</p>
+                </div>
+                <div class="space_3"></div>
+                <img src="img/sect_8/step04.png" alt="" class="undrag txt_bpad_2 width_93" />
+                <p class="noto_bold font_75 txt_bpad_05" style="color: #444; margin-top: -0.12vw;">ご契約</p>
+                <p class="txt_center noto_regular font_65 line_h_150" style="color: #444;">
+                  プランやお見積り金額に<br>
+                  ご納得いただけましたら<br>
+                  契約書を取り交わします。
+                </p>
+                <div class="space_1"></div>
+              </div>
+
+            </div>
+            <div class="txt_tpad_1">
+              <img src="img/sect_8/text01.png" alt="" class="undrag width_100" />
+            </div>
+            </div>
+
+            <div class="flex txt_tpad_1 bg_img" style="justify-content: flex-start;">
+              <div class="width_32 txt_tpad_05" style="margin-left: 4%;">
+                <p class="noto_bold font_150">STEP</p>
+                <p class="noto_bold" style="line-height: 70%; color: #444; font-size: 7vw;">05</p>
+                <div class="space_2"></div>
+                <p class="noto_bold font_75 txt_bpad_05" style="color: #444; margin-top: -0.12vw;">ご利用開始</p>
+                <p class="txt_center noto_regular font_75 line_h_150" style="color: #444;">
+                  貴社の採用活動成功のサポートを<br>
+                  させていただきます。
+                </p>
+              </div>
+
+              <img src="img/sect_8/step05.png" alt="" class="undrag txt_bpad_2 width_54" />
+            </div>
+            <div class="space_3" style="border-bottom: 1px solid #d1d1d1;"></div>
+          </div>
+        </div>
+      </div>
+      <!-- TAB & SP VIEW -->
+      <div class="view_tabsp">
+
+        <div class="wrapper_90">
+          <div class="wrapper_75">
+            <p class="noto_medium" style="font-size: 3.1vw;">採用代行を詳しく知りたい方はこちら</p>
+          </div>
+        </div>
+        <div class="space_2"></div>
+        <div class="wrapper_90">
+          <div class="wrapper_90">
+            <a href="" class="width_100 block font_125 noto_bold white line_h_125 box_radius_9999"
+                style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%); padding: 2vw !important;">採用代行サービス<br>徹底ガイドお申込み</a>
+           </div>
+        </div>
+        <div class="space_5"></div>
+        <div class="space_2"></div>
+
+        <div class="wrapper_90">
+          <img class="width_50 undrag" src="img/sect_8/title-sp.png" alt="">
+        </div>
+
+        <div class="space_2"></div>
+        <!-- step 1 -->
+        <div style="background-color: #ff9800;">
+          <div class="space_5"></div>
+          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+            <div>
+              <div class="flex" style="align-items: center; justify-content: flex-start;">
+                <div class="txt_center" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_125">STEP</p>
+                  <p class="noto_bold" style="line-height: 60%; color: #444; font-size: 15vw;">01</p>
+                </div>
+                <p class="noto_bold font_125 lspace_1" style="margin-top: 10vw;">お問合せ</p>
+              </div>
+              
+              <div class="space_2"></div>
+              <!-- <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">お問合せ</p> -->
+              <p class="txt_left noto_regular line_h_150" style="color: #444; font-size: 3.8vw;">
+                まずはお気軽にメール<br>
+                又はお電話にて<br>
+                お問合せください。
+              </p>
+              <div class="space_1"></div>
+            </div>
+
+            <img src="img/sect_8/step01.png" alt="" class="undrag txt_bpad_1 width_51" />
+          </div>
+          <div class="space_5"></div>
+        </div>
+        <!-- step 2 -->
+        <div style="background-color: #ff9800;">
+          <div class="space_3"></div>
+          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+            <div>
+              <div class="flex" style="align-items: center; justify-content: flex-start;">
+                <div class="txt_center" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_125">STEP</p>
+                  <p class="noto_bold" style="line-height: 60%; color: #444; font-size: 15vw;">02</p>
+                </div>
+                <p class="noto_bold font_125 lspace_1" style="margin-top: 10vw;">ヒアリング</p>
+              </div>
+              
+              <div class="space_2"></div>
+              <!-- <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">お問合せ</p> -->
+              <p class="txt_left noto_regular line_h_150" style="color: #444; font-size: 3.8vw;">
+                コンサルタントが潜在<br>
+                課題も含めて客観的に<br>
+                課題を見つけていきます。
+              </p>
+              <div class="space_1"></div>
+            </div>
+
+            <img src="img/sect_8/step02.png" alt="" class="undrag txt_bpad_1 width_35 rspace_2 bg_img" style="right: 2vw; top: 3vw;" />
+          </div>
+          <div class="space_5"></div>
+        </div>
+        <!-- step 3 -->
+        <div style="background-color: #ff9800;">
+          <div class="space_3"></div>
+          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+            <div>
+              <div class="flex" style="align-items: center; justify-content: flex-start;">
+                <div class="txt_center" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_125">STEP</p>
+                  <p class="noto_bold" style="line-height: 60%; color: #444; font-size: 15vw;">03</p>
+                </div>
+                <p class="noto_bold font_125 line_h_100 lspace_1" style="margin-top: 10vw;">プランの<br>
+                  ご提案</p>
+              </div>
+              
+              <div class="space_2"></div>
+              <!-- <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">お問合せ</p> -->
+              <p class="txt_left noto_regular line_h_150" style="color: #444; font-size: 3.8vw;">
+                貴社の採用活動に<br>
+                最適なプランを設計し、<br>
+                ご提案いたします。
+              </p>
+              <div class="space_1"></div>
+            </div>
+
+            <img src="img/sect_8/step03.png" alt="" class="undrag txt_bpad_1 width_50" />
+          </div>
+          <div class="space_5"></div>
+        </div>
+        <!-- step 4 -->
+        <div style="background-color: #ff9800;">
+          <div class="space_3"></div>
+          <div class="s8_steps txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+            <div>
+              <div class="flex" style="align-items: center; justify-content: flex-start;">
+                <div class="txt_center" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_125">STEP</p>
+                  <p class="noto_bold" style="line-height: 60%; color: #444; font-size: 15vw;">04</p>
+                </div>
+                <p class="noto_bold font_125 lspace_1" style="margin-top: 10vw;">ご契約</p>
+              </div>
+              
+              <div class="space_2"></div>
+              <!-- <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">お問合せ</p> -->
+              <p class="txt_left noto_regular line_h_150" style="color: #444; font-size: 3.6vw;">
+                プランやお見積り金額に<br>
+                ご納得いただけましたら<br>
+                契約書を取り交わします。
+              </p>
+              <div class="space_1"></div>
+            </div>
+
+            <img src="img/sect_8/step04.png" alt="" class="undrag txt_bpad_1 width_50" />
+          </div>
+          <div class="space_4"></div>
+          <img src="img/sect_8/text01-sp.png" alt="" class="undrag txt_bpad_1 width_75" />
+          <div class="space_2"></div>
+        </div>
+
+        <!-- <div class="space_4"></div> -->
+        
+         <!-- step 5 -->
+         <div>
+          <div class="space_3"></div>
+          <div class="txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_95" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+            <div class="bg_img" style="top: -2vw;">
+              <div class="flex" style="align-items: center; justify-content: flex-start;">
+                <div class="txt_center" style="top: -15% !important; color: #444;">
+                  <p class="noto_bold font_125">STEP</p>
+                  <p class="noto_bold" style="line-height: 60%; color: #444; font-size: 15vw;">05</p>
+                </div>
+                <p class="noto_bold font_125 lspace_1" style="margin-top: 10vw; line-height: 110%;">ご利用<br>
+                  開始</p>
+              </div>
+              
+              <div class="space_2"></div>
+              <!-- <p class="noto_bold font_75 txt_bpad_05" style="color: #444;">お問合せ</p> -->
+              <p class="txt_left noto_regular line_h_150" style="color: #444; font-size: 3.8vw;">
+                貴社の採用活動成功<br>
+                のサポートをさせてい<br>
+                ただきます。
+              </p>
+              <div class="space_1"></div>
+            </div>
+
+            <img src="img/sect_8/step05-sp.png" alt="" class="undrag txt_bpad_1 width_56" />
+          </div>
+          <div class="space_3" style="border-bottom: 1px solid #444"></div>
+          <div class="space_3"></div>
+        </div>
+    </div>
+    </section>
+
+    <section class="sect_9">
+      <div class="view_pc txt_bpad_5">
+        <div class="cont_wrapper_55">
+          <p class="noto_bold font_125" style="color: #444;">よくあるご質問</p>
+          <div class="space_2"></div>
+          <!-- accordion -->
+
+          <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+           <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+            <p class="txt_left noto_medium font_125 lspace_5" style="color: #444;">運用拠点や担当者はどのように決まりますか?</p>
+           </div>
+
+           <div class="accordion_item_body cont_wrapper_95">
+             <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+             <div class="space_2"></div>
+             <p class="txt_left noto_regular font_65 line_h_150">お任せいただく内容を把握した上で、実務経験者の中から最適なメンバーを弊社内で選定し、決定させていただきます。</p>
+             <div class="space_1"></div>
+           </div>
+          </div>
+
+          <div class="space_2"></div>
+
+          <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125 lspace_5" style="color: #444;">媒体や採用管理システムで対応できないツールはありますか？</p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_65 line_h_150">すべての媒体ATSでの運用実績がございます。<br>
+                運用方法などは企業様の今までのルールを踏襲しつつ、生産性の高いオペレーションをご提案させていただきます。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_2"></div>
+
+          <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125 lspace_5" style="color: #444;">担当者の方とのやりとりはどのように行われますか？</p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_65 line_h_150">報告等につきましては、メールを中心に行いますが、電話・Chatwork・Slackなどでのコミュニケーションも可能です。<br>
+                お気軽にご相談ください。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_2"></div>
+
+          <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125 lspace_5" style="color: #444;">求人媒体への広告掲載は必須ですか?</p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_65 line_h_150">いいえ、必要ありません。　必要に応じてご提案をさせていただくこともございますが、当社を通しての求人媒体への広告掲載は採用代行のご依頼に必須ではございません。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_2"></div>
+
+          <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125 lspace_5" style="color: #444;">説明会や面接の代行もやってもらえますか?</p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_65 line_h_150">はい、承っております。　非常に手間とリソースがかかる説明会の開催や、ノウハウが必要な面接の代行もご依頼いただけます。 その分貴社のコア業務や本来の業務に集中していただけるよう、その他さまざまな業務をお手伝いしております。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_5" style="border-bottom: 1px solid #d1d1d1;"></div>
+
+        </div>
+      </div>
+
+      <!-- TAB & SP VIEW -->
+      <div class="view_tabsp">
+        <div class="space_2"></div>
+        <div class="wrapper_90">
+          <p class="noto_bold font_125" style="color: #444;">よくあるご質問</p>
+          <div class="space_2"></div>
+
+          <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125" style="color: #444;">
+              運用拠点や担当者は<br>
+              どのように決まりますか?
+            </p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_100 txt_justify line_h_150">お任せいただく内容を把握した上で、実務経験者の中から最適なメンバーを弊社内で選定し、決定させていただきます。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_2"></div>
+
+           <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125" style="color: #444;">
+              媒体や採用管理システムで<br>
+              対応できないツールはありますか？
+            </p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_100 txt_justify line_h_150">すべての媒体ATSでの運用実績がございます。運用方法などは企業様の今までのルールを踏襲しつつ、生産性の高いオペレーションをご提案させていただきます。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_2"></div>
+
+           <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125" style="color: #444;">
+              担当者の方とのやりとりは<br>
+              どのように行われますか？
+            </p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_100 txt_justify line_h_150">報告等につきましては、メールを中心に行いますが、電話・Chatwork・Slackなどでのコミュニケーションも可能です。お気軽にご相談ください。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_2"></div>
+
+           <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125" style="color: #444;">
+              求人媒体への広告掲載は必須ですか?
+            </p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_100 txt_justify line_h_150">いいえ、必要ありません。<br>
+                必要に応じてご提案をさせていただくこともございますが、当社を通しての求人媒体への広告掲載は採用代行のご依頼に必須ではございません。</p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+
+           <div class="space_2"></div>
+
+           <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
+             <p class="txt_left noto_medium font_125" style="color: #444;">
+              説明会や面接の代行も?<br>
+              やってもらえますか?
+            </p>
+            </div>
+ 
+            <div class="accordion_item_body cont_wrapper_95">
+              <div class="space_1" style="border-bottom: 1px solid #444;"></div>
+              <div class="space_2"></div>
+              <p class="txt_left noto_regular font_100 txt_justify line_h_150">
+                はい、承っております。<br>
+                非常に手間とリソースがかかる説明会の開催や、ノウハウが必要な面接の代行もご依頼いただけます。その分貴社のコア業務や本来の業務に集中していただけるよう、その他さまざまな業務をお手伝いしております。
+              </p>
+              <div class="space_1"></div>
+            </div>
+           </div>
+        </div>
+        <div class="space_1"></div>
+        <div class="space_5" style="border-bottom: 1px solid #444;"></div>
+        <div class="space_5"></div>
+      </div>
+    </section>
+
+
   </main>
 
   <footer></footer>

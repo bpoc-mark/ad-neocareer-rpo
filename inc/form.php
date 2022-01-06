@@ -583,6 +583,18 @@
       bottom: -25%;
       transform: rotate(90deg);
     }
+/* 
+    @media only screen and (max-width: 1050px) {
+      .sect_3 {
+        padding-top: 26vw !important;
+        margin-top: -26vw !important;
+      }
+
+      .sect_6 {
+        padding-top: 12vw !important;
+        margin-top: -12vw !important;
+      }
+    } */
   </style>
 
   <!-- <style>
@@ -815,17 +827,17 @@
           </div>
           <div class="width_64">
             <ul class="wrapper_100 flex">
-              <li><a href="" class="noto_medium font_65 white">特徴</a></li>
-              <li><a href="" class="noto_medium font_65 white">導入事例</a></li>
-              <li><a href="" class="noto_medium font_65 white">お客様の声</a></li>
+              <li><a href="#sect_3" class="noto_medium font_65 white">特徴</a></li>
+              <li><a href="#sect_6" class="noto_medium font_65 white">導入事例</a></li>
+              <li><a href="#sect_7" class="noto_medium font_65 white">お客様の声</a></li>
               <li><a href="" class="noto_medium font_65 white">料金・プラン</a></li>
-              <li><a href="" class="noto_medium font_65 white">ご利用の流れ</a></li>
-              <li><a href="" class="noto_medium font_65 white">よくある質問</a></li>
+              <li><a href="#sect_8" class="noto_medium font_65 white">ご利用の流れ</a></li>
+              <li><a href="#sect_9" class="noto_medium font_65 white">よくある質問</a></li>
             </ul>
           </div>
           <div class="width_4"></div>
           <div class="width_17">
-            <a href="" class="box_radius_9999 font_65 noto_medium white txt_rpad_1 txt_lpad_1" style="background: #ff9700; padding-top: 0.3vw; padding-bottom: 0.3vw;">資料請求・お問合せ</a>
+            <a href="#sect_10" class="box_radius_9999 font_65 noto_medium white txt_rpad_1 txt_lpad_1" style="background: #ff9700; padding-top: 0.3vw; padding-bottom: 0.3vw;">資料請求・お問合せ</a>
           </div>
         </div>
       </div>
@@ -860,22 +872,22 @@
         <div class="space_2"></div>
         <ul class="wrapper_100 txt_center">
           <li class="bspace_5">
-            <a href="/" class="font_100 noto_regular">特徴</a>
+            <a href="#sect_3" class="font_100 noto_regular">特徴</a>
           </li>
           <li class="bspace_5">
-            <a href="/" class="font_100 noto_regular">導入事例</a>
+            <a href="#sect_6" class="font_100 noto_regular">導入事例</a>
           </li>
           <li class="bspace_5">
-            <a href="/" class="font_100 noto_regular">お客様の声</a>
+            <a href="#sect_7" class="font_100 noto_regular">お客様の声</a>
           </li>
           <li class="bspace_5">
             <a href="/" class="font_100 noto_regular">料金・プラン</a>
           </li>
           <li class="bspace_5">
-            <a href="/" class="font_100 noto_regular">ご利用の流れ</a>
+            <a href="#sect_8" class="font_100 noto_regular">ご利用の流れ</a>
           </li>
           <li>
-            <a href="/" class="font_100 noto_regular">よくあるご質問</a>
+            <a href="#sect_9" class="font_100 noto_regular">よくあるご質問</a>
           </li>
         </ul>
         <div class="space_5"></div>
@@ -1080,7 +1092,7 @@
       </div>
     </section>
     <div class="space_5"></div>
-    <section class="sect_3">
+    <section class="sect_3" id="sect_3" style="padding-top: 6vw; margin-top: -6vw;">
       <div class="view_pc">
         <div class="wrapper_45">
           <div class="tittle">
@@ -1624,7 +1636,7 @@
         </div>
       </div>
     </section>
-    <section class="sect_6" style="background-color: #f6f1ed">
+    <section class="sect_6" id="sect_6" style="background-color: #f6f1ed">
       <div class="view_pc txt_tpad_5 txt_bpad_5">
         <div class="cont_wrapper_55">
           <!-- title -->
@@ -1985,7 +1997,7 @@
         </div>
       </div>
     </section>
-    <section class="sect_7 bg_white">
+    <section class="sect_7 bg_white" id="sect_7">
       <div class="view_pc txt_tpad_5 txt_bpad_5">
         <div class="cont_wrapper_55">
           <!-- title -->
@@ -2135,7 +2147,7 @@
         <div class="space_4"></div>
       </div>
     </section>
-    <section class="sect_8">
+    <section class="sect_8" id="sect_8">
       <div class="view_pc txt_bpad_5">
         <div class="wrapper_100" style="background: #ecf8ff">
           <div class="space_2"></div>
@@ -2423,7 +2435,7 @@
       </div>
     </section>
 
-    <section class="sect_9">
+    <section class="sect_9" id="sect_9" style="margin-top: -6vw; padding-top: 6vw;">
       <div class="view_pc txt_bpad_5">
         <div class="cont_wrapper_55">
           <p class="noto_bold font_125" style="color: #444;">よくあるご質問</p>
@@ -2929,10 +2941,6 @@
   </footer>
 
   <script>
-    $("html").easeScroll();
-  </script>
-
-  <script>
     $(document).ready(function() {
       $('.m_menu').click(function() {
         $('.m_menu span').toggleClass('isActive');
@@ -2996,7 +3004,7 @@
     });
   </script>
 
-  <script>
+  <!-- <script>
     $.fn.scrollView = function() {
       return this.each(function() {
         $("html, body").animate({
@@ -3006,7 +3014,7 @@
         );
       });
     };
-  </script>
+  </script> -->
 </body>
 
 </html>

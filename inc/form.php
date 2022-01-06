@@ -1477,7 +1477,7 @@
                 <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 3px 3px 10px 2px rgb(0 0 0 / 20%);">
                   <img class="width_83 undrag" src="../img/sect_5/sect_5_ttl-3.png" alt="">
                   <div class="space_1"></div>
-                  <p class="noto_medium font_65 line_h_200">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
+                  <p class="noto_medium font_65 line_h_200" style="padding-bottom: 0.2vw;">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
                   <div class="space_2"></div>
                   <div class="wrapper_90">
                     <img class="width_100 undrag" src="../img/sect_5/sect_5_work-3.png" alt="">
@@ -2431,11 +2431,11 @@
           <!-- accordion -->
 
           <div class="accordion_item txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1" style="border: 1px solid #444; border-radius: 3px;">
-            <div class="accordion_item_header flex active" style="justify-content: flex-start; align-items: center;">
+            <div class="accordion_item_header flex" style="justify-content: flex-start; align-items: center;">
               <p class="txt_left noto_medium font_125 lspace_5" style="color: #444;">運用拠点や担当者はどのように決まりますか?</p>
             </div>
 
-            <div class="accordion_item_body cont_wrapper_95" style="max-height: 100%;">
+            <div class="accordion_item_body cont_wrapper_95">
               <div class="space_1" style="border-bottom: 1px solid #444;"></div>
               <div class="space_2"></div>
               <p class="txt_left noto_regular font_65 line_h_150">お任せいただく内容を把握した上で、実務経験者の中から最適なメンバーを弊社内で選定し、決定させていただきます。</p>

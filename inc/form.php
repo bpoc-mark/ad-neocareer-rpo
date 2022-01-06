@@ -860,35 +860,6 @@
             </div>
         </div>
     </div>
-        <div class="wrapper_100 flex" style="height: 100%; overflow: scroll;">
-            <div class="wrapper_90" style="background-color: #fff;">
-                <div class="space_10"></div>
-                <div class="space_5"></div>
-                <div class="space_2"></div>
-                <ul class="wrapper_100 txt_center">
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">特徴</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">導入事例</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">お客様の声</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">料金・プラン</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">ご利用の流れ</a>
-                    </li>
-                    <li>
-                        <a href="/" class="font_100 noto_regular">よくあるご質問</a>
-                    </li>
-                </ul>
-                <div class="space_5"></div>
-            </div>
-        </div>
-    </div>
     <main>
       <section class="banner">
       <div class="view_pc" style="background: #008ddc;">
@@ -935,6 +906,8 @@
       <div class="view_pc">
         <div class="wrapper_45">
           <div class="space_5"></div>
+          <div class="space_5"></div>
+          <div class="space_3"></div>
           <div class="title">
             <img class="width_100 undrag" src="../img/sect_1/sect_1_ttl.png" alt=""/>
           </div>
@@ -950,7 +923,7 @@
           <div class="space_05"></div>
           <div class="wrapper_50">
             <div class="wrapper_85">
-              <a href="" class="width_100 block font_125 noto_bold white line_h_300 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問い合わせはこちら</a>
+              <a href="" class="width_100 block font_125 noto_bold white line_h_250 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問い合わせはこちら</a>
             </div>
           </div>
           <div class="space_2"></div>

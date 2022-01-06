@@ -268,7 +268,6 @@ $(function() {
 });
 
 
-
 /** altをテキスト化 **/
 $(function(){
     $(".timg").each(function(i){

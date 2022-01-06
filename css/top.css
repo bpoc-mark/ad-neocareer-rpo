@@ -4,9 +4,9 @@ header.isActive {
   border-bottom: 1px solid #d1d1d1;
 }
 
-.prevent_scrolling {
+/* .prevent_scrolling {
   overflow: hidden;
-}
+} */
 
 header.isActive .view_tabsp h1 {
   opacity: 0;

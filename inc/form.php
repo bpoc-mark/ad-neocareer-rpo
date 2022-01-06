@@ -829,37 +829,8 @@
         </div>
       </div>
   </header>
-  <img class="width_35 undrag p_fixed txt_left change" src="img/header/header_logo_2.png" alt="" style="position: absolute; left: 5vw; top: 2vw; z-index: 9999;">
+  <img class="width_35 undrag p_fixed txt_left change" src="img/header/header_logo_2.png" alt="" style="position: fixed; left: 5vw; top: 2vw; z-index: 9999;">
   <div class="nav_sp fixed_top view_tabsp bg_white"  style="z-index: 94 !important;">
-        <div class="wrapper_100 flex" style="height: 100%; overflow: scroll;">
-            <div class="wrapper_90" style="background-color: #fff;">
-                <div class="space_10"></div>
-                <div class="space_5"></div>
-                <div class="space_2"></div>
-                <ul class="wrapper_100 txt_center">
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">特徴</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">導入事例</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">お客様の声</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">料金・プラン</a>
-                    </li>
-                    <li class="bspace_5">
-                        <a href="/" class="font_100 noto_regular">ご利用の流れ</a>
-                    </li>
-                    <li>
-                        <a href="/" class="font_100 noto_regular">よくあるご質問</a>
-                    </li>
-                </ul>
-                <div class="space_5"></div>
-            </div>
-        </div>
-    </div>
         <div class="wrapper_100 flex" style="height: 100%; overflow: scroll;">
             <div class="wrapper_90" style="background-color: #fff;">
                 <div class="space_10"></div>
@@ -935,6 +906,8 @@
       <div class="view_pc">
         <div class="wrapper_45">
           <div class="space_5"></div>
+          <div class="space_5"></div>
+          <div class="space_3"></div>
           <div class="title">
             <img class="width_100 undrag" src="../img/sect_1/sect_1_ttl.png" alt=""/>
           </div>
@@ -950,7 +923,7 @@
           <div class="space_05"></div>
           <div class="wrapper_50">
             <div class="wrapper_85">
-              <a href="" class="width_100 block font_125 noto_bold white line_h_300 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問い合わせはこちら</a>
+              <a href="" class="width_100 square_btn block font_125 noto_bold white line_h_250 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問い合わせはこちら</a>
             </div>
           </div>
           <div class="space_2"></div>
@@ -958,18 +931,21 @@
       </div>
       <div class="view_tabsp">
           <div class="space_4"></div>
+          <div class="space_5"></div>
+          <div class="space_5"></div>
+          <div class="space_5"></div>
           <div class="wrapper_90">
               <img class="width_100 undrag" src="../img/sect_1/sect_1_ttl_sp.png" alt="">
           </div>
           <div class="space_2"></div>
           <div class="wrapper_90">
               <div class="wrapper_90">
-                  <a href="" class="width_100 block font_125 noto_bold white line_h_300 box_radius_9999"
+                  <a href="" class="width_100 square_btn block font_125 noto_bold white line_h_300 box_radius_9999"
                       style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問合せ</a>
               </div>
           </div>
           <div class="space_2"></div>
-          <div class="wrapper_75">
+          <div class="wrapper_88">
               <p class="noto_medium" style="font-size: 3.1vw;">まずは採用に関するお悩みを気軽にご相談ください。</p>
           </div>
       </div>
@@ -979,54 +955,49 @@
         <div class="space_5"></div>
         <div class="cont_wrapper_55">
           <div class="wrapper_100">
-            <img class="width_100 undrag" src="../img/sect_2/sect_2_ttl.png" alt="">
+            <img class="width_75 undrag" src="../img/sect_2/sect_2_ttl.png" alt="">
           </div>
           <div class="space_2"></div>
           <div class="wrapper_100">
-            <div class="flex txt_left">
-              <div class="width_15">
+            <div class="flex txt_left" style="justify-content: flex-start; margin-left: 5vw;">
+              <div class="width_16" style="padding-left: 1vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-1.png" alt="">
               </div>
-              <div class="width_70">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-1.png" alt="">
+              <div class="width_58">
+                <img class="width_100 undrag tspace_05" src="../img/sect_2/sect_2_box-1.png" alt="">
               </div>
-              <div class="width_15"></div>
             </div>
-            <div class="flex" style="margin-top: -1.6vw;">
-              <div class="width_20"></div>
-              <div class="width_65">
+            <div class="flex" style="margin-top: -1.2vw; margin-right: 2vw; justify-content: flex-end;">
+              <div class="width_54">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2.png" alt="">
               </div>
-              <div class="width_15">
+              <div class="width_16 bg_img txt_rpad_1" style="right: 1vw; top: -0.7vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-2.png" alt="">
               </div>
             </div>
-            <div class="flex txt_left" style="margin-top: -1.6vw;">
-              <div class="width_15">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-1.png" alt="">
+            <div class="flex txt_left" style="margin-top: -1.2vw; justify-content: flex-start; margin-left: 5vw;">
+              <div class="width_16 txt_lpad_1">
+                <img class="width_90 bg_img undrag" src="../img/sect_2/sect_2_woman-1.png" alt="" style="top: -0.9vw;">
               </div>
-              <div class="width_70">
+              <div class="width_58">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3.png" alt="">
               </div>
-              <div class="width_15"></div>
             </div>
-            <div class="flex" style="margin-top: -1.6vw;">
-              <div class="width_15"></div>
-              <div class="width_70">
+            <div class="flex" style="margin-top: -1.2vw; margin-right: 2vw; justify-content: flex-end;">
+              <div class="width_54">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4.png" alt="">
               </div>
-              <div class="width_15">
+              <div class="width_16 rspace_5 bg_img txt_rpad_1" style="right: 1vw; top: -0.7vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-3.png" alt="">
               </div>
             </div>
-            <div class="flex txt_left" style="margin-top: -1.6vw;">
-              <div class="width_15">
+            <div class="flex txt_left" style="justify-content: flex-start; margin-left: 5vw; margin-top: -1.2vw;">
+              <div class="width_16 lspace_2" style="padding-left: 1vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-2.png" alt="">
               </div>
-              <div class="width_70">
+              <div class="width_58">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5.png" alt="">
               </div>
-              <div class="width_15"></div>
             </div>
           </div>
         </div>
@@ -1034,41 +1005,45 @@
       <div class="view_tabsp">
         <div class="space_5"></div>
         <div class="space_2"></div>
+          <div class="wrapper_100">
+            <img class="width_63 undrag" src="../img/sect_2/sect_2_ttl_sp.png" alt="">
+          </div>
+          <div class="space_1"></div>
         <div class="wrapper_90">
-          <div class="flex txt_left">
-            <div class="width_25">
+          <div class="flex txt_left bg_img" style="justify-content: flex-end;">
+            <div class="width_24 tl_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-1.png" alt="">
             </div>
             <div class="width_75">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_box-1-sp.png" alt="">
             </div>
           </div>
-          <div class="flex" style="margin-top: -1.6vw;">
-            <div class="width_75">
+          <div class="flex bg_img" style="margin-top: -3.6vw; justify-content: flex-start;">
+            <div class="width_82">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2-sp.png" alt="">
             </div>
-            <div class="width_25">
+            <div class="width_28 tr_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-2.png" alt="">
             </div>
           </div>
-          <div class="flex txt_left" style="margin-top: -1.6vw;">
-            <div class="width_25">
+          <div class="flex txt_left bg_img" style="margin-top: -3.6vw;justify-content: flex-end;">
+            <div class="width_23 tl_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-1.png" alt="">
             </div>
-            <div class="width_75">
+            <div class="width_78">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3-sp.png" alt="">
             </div>
           </div>
-          <div class="flex" style="margin-top: -1.6vw;">
-            <div class="width_75">
+          <div class="flex bg_img" style="margin-top: -2.6vw; justify-content: flex-start;">
+            <div class="width_79">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4-sp.png" alt="">
             </div>
-            <div class="width_25">
+            <div class="width_28 tr_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-3.png" alt="">
             </div>
           </div>
-          <div class="flex txt_left" style="margin-top: -1.6vw;">
-            <div class="width_25">
+          <div class="flex txt_left bg_img" style="margin-top: -3.6vw;justify-content: flex-end;">
+            <div class="width_24 tl_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-2.png" alt="">
             </div>
             <div class="width_75">
@@ -1088,22 +1063,22 @@
           </div>
           <div class="space_4"></div>
           <div class="cont_wrapper_55">
-            <div class="flex flex_start" style="align-items: center;">
+            <div class="flex flex_start" style="align-items: center; justify-content: space-between;">
               <div class="width_62 box_radius_10" style="box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">
                 <p class="noto_bold font_800 txt_left txt_lpad_2" style="color: #008edc; margin-top: -3.5vw; line-height: 1;">01</p>
                 <p class="noto_bold font_150 txt_lpad_2 txt_tpad_1 txt_left">
                   採用代行支援<span class="noto_bold font_150" style="color: #008edc; display: inline;">実績10,000社／<br>年間800社</span>。<span class="noto_bold font_150" style="color: #008edc; display: inline;">リピート率95％</span>
                 </p>
-                <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_2 txt_bpad_2 txt_rpad_2 line_h_200">人材業界ならではの企業理解の深さで、高い専門性でリピート率は95%以上。10,000社の採用ノウハウを活かし、最適な業務の切り分けから代行、効果検証にて採用成功まで伴走いたします。</p>
+                <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">人材業界ならではの企業理解の深さで、高い専門性でリピート率は95%以上。10,000社の採用ノウハウを活かし、最適な業務の切り分けから代行、効果検証にて採用成功まで伴走いたします。</p>
               </div>
               <div class="width_3"></div>
               <div class="width_28">
-                <img class="width_100 undrag" src="../img/sect_3/sect_3_man-1.png" alt="">
+                <img class="width_92 undrag" src="../img/sect_3/sect_3_man-1.png" alt="" style="margin-left: -4vw;">
               </div>
             </div>
             <div class="space_5"></div>
             <div class="flex flex_start" style="align-items: center;">
-                <div class="width_36">
+                <div class="width_38 tspace_4">
                   <img class="width_100 undrag" src="../img/sect_3/sect_3_man-2.png" alt="">
                 </div>
                 <div class="width_1"></div>
@@ -1111,7 +1086,7 @@
                   <p class="noto_bold font_800 txt_left txt_lpad_2" style="color: #008edc; margin-top: -3.5vw; line-height: 1;">02</p>
                   <p class="noto_bold font_150 txt_lpad_2 txt_tpad_1 txt_left"><span class="noto_bold" style="color: #008ddc;">採用戦略</span>と<span class="noto_bold" style="color:#008ddc">運用フロー</span>の<br>
                   構築を徹底サポート</p>
-                  <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_2 txt_bpad_2 txt_rpad_2 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、成功まで伴走。</p>
+                  <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、成功まで伴走。</p>
                 </div>
             </div>
             <div class="space_5"></div>
@@ -1119,14 +1094,14 @@
               <div class="width_62 box_radius_10" style="box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">
                 <p class="noto_bold font_800 txt_left txt_lpad_2" style="color: #008edc; margin-top: -3.5vw; line-height: 1;">03</p>
                 <p class="noto_bold font_150 txt_lpad_2 txt_tpad_1 txt_left"><span class="noto_bold" style="color: #008ddc;">実績のある</span><br>オペレーターで対応</p>
-                <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_2 txt_bpad_2 txt_rpad_2 line_h_200">500名規模の自社内運用センターを保有し、アルバイトや派遣スタッフに頼ることなく、熟練度の高いスタッフの継続雇用を実現。品質には高い評価を得ています。</p>
+                <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">500名規模の自社内運用センターを保有し、アルバイトや派遣スタッフに頼ることなく、熟練度の高いスタッフの継続雇用を実現。品質には高い評価を得ています。</p>
               </div>
-              <div class="width_38">
+              <div class="width_38 tspace_4">
                 <img class="width_100 undrag" src="../img/sect_3/sect_3_man-3.png" alt="">
               </div>
             </div>
           </div>
-          <div class="space_5"></div>
+         
       </div>
       <div class="view_tabsp">
         <div class="wrapper_90">
@@ -1176,12 +1151,12 @@
       <div class="view_pc">
         <div class="space_5"></div>
         <div class="cont_wrapper_55">
-          <div class="wrapper_55">
+          <div class="wrapper_65">
             <img class="width_100 undrag" src="../img/sect_4/sect_4_ttl.png" alt="">
           </div>
           <div class="space_3"></div>
           <div class="wrapper_85">
-            <a href="" class="noto_bold square_btn box_radius_15 line_h_300 font_125 white" style="background: #008edc;">採用活動支援サービスの主な内容</a>
+            <a href="" class="noto_bold square_btn box_radius_15 line_h_250 font_125 white" style="background: #008edc;">採用活動支援サービスの主な内容</a>
           </div>
           <div class="space_3"></div>
           <div class="wrapper_100">
@@ -1326,13 +1301,13 @@
               </div>
             </div>
           </div>
-          <div class="space_3"></div>
+          <div class="space_2"></div>
           <div class="wrapper_90">
             <div class="wrapper_100 txt_lpad_1 txt_rpad_1 txt_tpad_1 txt_bpad_1" style="background: #ecf8ff;">
               <p class="noto_regular font_60 line_h_200 txt_left">上記は採用活動における業務フローです。このフローで課題となっている箇所を探し出すところから始め、解決するためのサービスをご提供いたします。勿論、上記以外でも必要と判断する業務があれば、随時ご提案・ご相談させていただきます。</p>
             </div>
           </div>
-          <div class="space_5"></div>
+          <div class="space_4"></div>
           <div class="wrapper_85">
             <a href="" class="noto_bold square_btn box_radius_15 line_h_150 font_100 white txt_tpad_05 txt_bpad_05" style="background: #008edc; letter-spacing: 0.1em;">採用手法や業務範囲等、企業ごとの状況に合わせカスタマイズ。<br>柔軟な対応が可能です。</a>
           </div>
@@ -1341,10 +1316,10 @@
       </div>
       <div class="view_tabsp">
         <div class="wrapper_90">
-          <img class="width_70 undrag" src="../img/sect_4/sect_4_ttl-sp.png" alt="">
+          <img class="width_76 undrag" src="../img/sect_4/sect_4_ttl-sp.png" alt="">
           <div class="space_1"></div>
           <div class="wrapper_100">
-            <a href="" class="noto_bold width_100 box_radius_15 white font_125 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.1em;">採用活動支援サービスの<br>主な内容</a>
+            <a href="" class="noto_bold width_100 square_btn box_radius_15 white font_125 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.1em;">採用活動支援サービスの<br>主な内容</a>
           </div>
           <div class="space_5"></div>
           <!-- ITEM 1 -->
@@ -1421,7 +1396,7 @@
           <div class="space_5"></div>
           <div class="space_1"></div>
           <div class="wrapper_100">
-            <a href="" class="noto_bold width_100 box_radius_15 white font_100 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.2em;">採用手法や業務範囲等、<br>企業ごとの状況に合わせカスタマイズ<br>柔軟な対応が可能です。</a>
+            <a href="" class="noto_bold width_100 square_btn box_radius_15 white font_100 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.2em;">採用手法や業務範囲等、<br>企業ごとの状況に合わせカスタマイズ<br>柔軟な対応が可能です。</a>
           </div>
           <div class="space_4"></div>
         </div>
@@ -1433,8 +1408,8 @@
           <div class="wrapper_100">
             <div class="flex flex_center">
               <div class="width_47">
-                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
-                  <img class="width_70 undrag" src="../img/sect_5/sect_5_ttl-1.png" alt="">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 3px 3px 10px 2px rgb(0 0 0 / 20%);">
+                  <img class="width_73 undrag" src="../img/sect_5/sect_5_ttl-1.png" alt="">
                   <div class="space_1"></div>
                   <p class="noto_medium font_65 line_h_200">メディア選定〜応募者対応を行います。媒体や管理システム操作に精通したスタッフが、応募受付センターとして、電話・メール等で応募者対応を行います。貴社はコア業務である<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">戦略や面接・選考に専念できる環境</span>を整えます。</p>
                   <div class="space_4"></div>
@@ -1454,8 +1429,8 @@
               </div>
               <div class="width_6"></div>
               <div class="width_47">
-                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
-                  <img class="width_80 undrag" src="../img/sect_5/sect_5_ttl-2.png" alt="">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 3px 3px 10px 2px rgb(0 0 0 / 20%);">
+                  <img class="width_83 undrag" src="../img/sect_5/sect_5_ttl-2.png" alt="">
                   <div class="space_1"></div>
                   <p class="noto_medium font_65 line_h_200">応募受付対応サービスにおける業務の他、特に人材紹介をメインの採用手法としてご利用頂いている企業様向けに、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">各エージェントとの最適なコミュニケーション</span>をお取り致します。その他、新規人材紹介会社の開拓・紹介実績に基づく精査参考データのご提出等も対応可能です。</p>
                   <div class="space_2"></div>
@@ -1477,8 +1452,8 @@
             <div class="space_3"></div>
             <div class="flex">
               <div class="width_47">
-                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
-                  <img class="width_80 undrag" src="../img/sect_5/sect_5_ttl-3.png" alt="">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 3px 3px 10px 2px rgb(0 0 0 / 20%);">
+                  <img class="width_83 undrag" src="../img/sect_5/sect_5_ttl-3.png" alt="">
                   <div class="space_1"></div>
                   <p class="noto_medium font_65 line_h_200">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
                   <div class="space_2"></div>
@@ -1498,8 +1473,8 @@
               </div>
               <div class="width_6"></div>
               <div class="width_47">
-                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 8px 8px 20px 8px rgb(0 0 0 / 20%);">
-                  <img class="width_70 undrag" src="../img/sect_5/sect_5_ttl-4.png" alt="">
+                <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 3px 3px 10px 2px rgb(0 0 0 / 20%);">
+                  <img class="width_73 undrag" src="../img/sect_5/sect_5_ttl-4.png" alt="">
                   <div class="space_1"></div>
                   <p class="noto_medium font_65 line_h_200">内定者に対し、内定意思確認や入社前事項の確認、必要に応じて貴社管理部と連携しながら、入社書類の準備や発送手続きを代行致します。<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">入社当日まで、ワンストップでフォロー</span>させて頂く事が可能です。</p>
                   <div class="space_4"></div>
@@ -2941,6 +2916,7 @@
           $('header').toggleClass('isActive');
           $('.nav_sp').toggleClass('isActive');
           $('.change').toggleClass('isActive');
+          $('body').toggleClass('prevent_scrolling');
       })
 
       $('.nav_sp a').click(function(){

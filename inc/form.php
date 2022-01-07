@@ -583,7 +583,8 @@
       bottom: -25%;
       transform: rotate(90deg);
     }
-/* 
+
+    /* 
     @media only screen and (max-width: 1050px) {
       .sect_3 {
         padding-top: 26vw !important;
@@ -837,7 +838,7 @@
           </div>
           <div class="width_4"></div>
           <div class="width_17">
-            <a href="#sect_10" class="box_radius_9999 font_65 noto_medium white txt_rpad_1 txt_lpad_1" style="background: #ff9700; padding-top: 0.3vw; padding-bottom: 0.3vw;">資料請求・お問合せ</a>
+            <a href="#sect_10" class="box_radius_9999 square_btn font_65 noto_medium white txt_rpad_1 txt_lpad_1" style="background: #ff9700; padding-top: 0.3vw !important; padding-bottom: 0.3vw !important;">資料請求・お問合せ</a>
           </div>
         </div>
       </div>
@@ -957,7 +958,7 @@
           <div class="space_05"></div>
           <div class="wrapper_50">
             <div class="wrapper_85">
-              <a href="" class="width_100 square_btn block font_125 noto_bold white line_h_250 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問い合わせはこちら</a>
+              <a href="#sect_10" class="width_100 square_btn block font_125 noto_bold white line_h_250 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問い合わせはこちら</a>
             </div>
           </div>
           <div class="space_2"></div>
@@ -974,16 +975,12 @@
         <div class="space_2"></div>
         <div class="wrapper_90">
           <div class="wrapper_90">
-            <a href="" class="width_100 square_btn block font_125 noto_bold white line_h_300 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問合せ</a>
+            <a href="#sect_10" class="width_100 square_btn block font_125 noto_bold white line_h_300 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問合せ</a>
           </div>
         </div>
-        <div class="space_2"></div>
-        <div class="wrapper_88">
-          <p class="noto_medium" style="font-size: 3.1vw;">まずは採用に関するお悩みを気軽にご相談ください。</p>
-        </div>
       </div>
-      <div class="space_2"></div>
-      <div class="wrapper_75">
+      <div class="space_2 view_tabsp"></div>
+      <div class="wrapper_75 view_tabsp">
         <p class="noto_medium" style="font-size: 3.1vw;">まずは採用に関するお悩みを気軽にご相談ください。</p>
       </div>
       </div>
@@ -1190,7 +1187,7 @@
           </div>
           <div class="space_3"></div>
           <div class="wrapper_85">
-            <a href="" class="noto_bold square_btn box_radius_15 line_h_250 font_125 white" style="background: #008edc;">採用活動支援サービスの主な内容</a>
+            <a class="noto_bold block box_radius_15 line_h_250 font_125 white" style="background: #008edc;">採用活動支援サービスの主な内容</a>
           </div>
           <div class="space_3"></div>
           <div class="wrapper_100">
@@ -1343,7 +1340,7 @@
           </div>
           <div class="space_4"></div>
           <div class="wrapper_85">
-            <a href="" class="noto_bold square_btn box_radius_15 line_h_150 font_100 white txt_tpad_05 txt_bpad_05" style="background: #008edc; letter-spacing: 0.1em;">採用手法や業務範囲等、企業ごとの状況に合わせカスタマイズ。<br>柔軟な対応が可能です。</a>
+            <a class="noto_bold block box_radius_15 line_h_150 font_100 white txt_tpad_05 txt_bpad_05" style="background: #008edc; letter-spacing: 0.1em;">採用手法や業務範囲等、企業ごとの状況に合わせカスタマイズ。<br>柔軟な対応が可能です。</a>
           </div>
         </div>
         <div class="space_3"></div>
@@ -1353,7 +1350,7 @@
           <img class="width_76 undrag" src="../img/sect_4/sect_4_ttl-sp.png" alt="">
           <div class="space_1"></div>
           <div class="wrapper_100">
-            <a href="" class="noto_bold width_100 square_btn box_radius_15 white font_125 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.1em;">採用活動支援サービスの<br>主な内容</a>
+            <a class="noto_bold width_100 block box_radius_15 white font_125 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.1em;">採用活動支援サービスの<br>主な内容</a>
           </div>
           <div class="space_5"></div>
           <!-- ITEM 1 -->
@@ -1430,7 +1427,7 @@
           <div class="space_5"></div>
           <div class="space_1"></div>
           <div class="wrapper_100">
-            <a href="" class="noto_bold width_100 square_btn box_radius_15 white font_100 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.2em;">採用手法や業務範囲等、<br>企業ごとの状況に合わせカスタマイズ<br>柔軟な対応が可能です。</a>
+            <a class="noto_bold width_100 block box_radius_15 white font_100 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.2em;">採用手法や業務範囲等、<br>企業ごとの状況に合わせカスタマイズ<br>柔軟な対応が可能です。</a>
           </div>
           <div class="space_4"></div>
         </div>
@@ -2159,7 +2156,7 @@
           <div class="space_05"></div>
           <div class="wrapper_50">
             <div class="wrapper_85">
-              <a href="" class="width_100 block font_125 noto_bold white line_h_250 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">採用代行サービス徹底ガイドお申込み</a>
+              <a href="#sect_10" class="width_100 block font_125 noto_bold white line_h_250 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">採用代行サービス徹底ガイドお申込み</a>
             </div>
           </div>
           <div class="space_2"></div>
@@ -2278,7 +2275,7 @@
         <div class="space_2"></div>
         <div class="wrapper_90">
           <div class="wrapper_90">
-            <a href="" class="width_100 block font_125 noto_bold white line_h_125 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%); padding: 2vw !important;">採用代行サービス<br>徹底ガイドお申込み</a>
+            <a href="#sect_10" class="width_100 block font_125 noto_bold white line_h_125 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%); padding: 2vw !important;">採用代行サービス<br>徹底ガイドお申込み</a>
           </div>
         </div>
         <div class="space_5"></div>

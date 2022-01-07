@@ -831,7 +831,7 @@
               <li><a href="#sect_3" class="noto_medium font_65 white">特徴</a></li>
               <li><a href="#sect_6" class="noto_medium font_65 white">導入事例</a></li>
               <li><a href="#sect_7" class="noto_medium font_65 white">お客様の声</a></li>
-              <li><a href="" class="noto_medium font_65 white">料金・プラン</a></li>
+              <!-- <li><a href="" class="noto_medium font_65 white">料金・プラン</a></li> -->
               <li><a href="#sect_8" class="noto_medium font_65 white">ご利用の流れ</a></li>
               <li><a href="#sect_9" class="noto_medium font_65 white">よくある質問</a></li>
             </ul>
@@ -881,9 +881,9 @@
           <li class="bspace_5">
             <a href="#sect_7" class="font_100 noto_regular">お客様の声</a>
           </li>
-          <li class="bspace_5">
+          <!-- <li class="bspace_5">
             <a href="/" class="font_100 noto_regular">料金・プラン</a>
-          </li>
+          </li> -->
           <li class="bspace_5">
             <a href="#sect_8" class="font_100 noto_regular">ご利用の流れ</a>
           </li>

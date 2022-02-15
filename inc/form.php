@@ -916,6 +916,9 @@
             <div class="b0_l50" style="width: 100%; bottom: -10vw;">
               <img class="width_100 undrag" src="../img/banner/banner_img_4.png" alt="">
             </div>
+            <div class="b0_l50" style="width: 100%; bottom: -10vw;">
+              <p class="noto_regular font_65">調査概要：採用代行会社10社を対象にしたサイトイメージ調査より。<br>調査実施：株式会社ショッパーズアイ調べ（2021年2月時点）</p>
+            </div>
           </div>
         </div>
       </div>
@@ -933,7 +936,9 @@
           <div class="wrapper_100">
             <img class="width_100 undrag" src="../img/banner/banner_img_4-sp.png" alt="">
           </div>
-
+        </div>
+        <div class="b0_l50" style="width: 100%; bottom: -41vw;">
+          <p class="noto_regular font_65">調査概要：採用代行会社10社を対象にしたサイトイメージ調査より。<br>調査実施：株式会社ショッパーズアイ調べ（2021年2月時点）</p>
         </div>
       </div>
     </section>
@@ -950,7 +955,7 @@
         <div class="space_05"></div>
         <div class="wrapper_100" style="background: #ecf8ff">
           <div class="space_2"></div>
-          <div class="wrapper_30">
+          <div class="wrapper_100">
             <p class="noto_medium font_100">
               まずは採用に関するお悩みを気軽にご相談ください。
             </p>
@@ -966,7 +971,7 @@
       </div>
       <div class="view_tabsp">
         <div class="space_4"></div>
-        <div class="space_5"></div>
+        <div class="space_10"></div>
         <div class="space_5"></div>
         <div class="space_5"></div>
         <div class="wrapper_90">
@@ -1104,7 +1109,7 @@
               <p class="noto_bold font_150 txt_lpad_2 txt_tpad_1 txt_left">
                 採用代行支援<span class="noto_bold font_150" style="color: #008EDC; display: inline;">実績10,000社／<br>年間800社</span>。<span class="noto_bold font_150" style="color: #008EDC; display: inline;">リピート率95％</span>
               </p>
-              <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">人材業界ならではの企業理解の深さで、高い専門性でリピート率は95%以上。10,000社の採用ノウハウを活かし、最適な業務の切り分けから代行、効果検証にて採用成功まで伴走いたします。</p>
+              <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">人材業界ならではの企業理解の深さと、高い専門性でリピート率は95%以上。10,000社の採用ノウハウを活かし、最適な業務の切り分けから代行、効果検証など採用成功まで伴走いたします。</p>
             </div>
             <div class="width_3"></div>
             <div class="width_28">
@@ -1121,7 +1126,7 @@
               <p class="noto_bold font_800 txt_left txt_lpad_2" style="color: #008EDC; margin-top: -3.5vw; line-height: 1;">02</p>
               <p class="noto_bold font_150 txt_lpad_2 txt_tpad_1 txt_left"><span class="noto_bold" style="color: #008DDC;">採用戦略</span>と<span class="noto_bold" style="color:#008ddc">運用フロー</span>の<br>
                 構築を徹底サポート</p>
-              <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、成功まで伴走。</p>
+              <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、後工程支援が強みです。</p>
             </div>
           </div>
           <div class="space_5"></div>
@@ -1148,7 +1153,7 @@
             <p class="noto_bold txt_bpad_4" style="color: #008DDC; font-size: 20vw; line-height: 1;">01</p>
             <p class="noto_bold font_125">採用代行支援<span class="noto_bold" style="color: #008DDC;">実績10,000社</span>／<br><span class="noto_bold" style="color: #008DDC;">年間800社</span>。<span class="noto_bold" style="color:#008ddc">リピート率95％</span></p>
             <div class="space_2"></div>
-            <p class="noto_medium font_75 line_h_200">人材業界ならではの企業理解の深さで、高い専門性でリピート率は95%以上。10,000社の採用ノウハウを活かし、最適な業務の切り分けから代行、効果検証にて採用成功まで伴走いたします。</p>
+            <p class="noto_medium font_75 line_h_200">人材業界ならではの企業理解の深さと、高い専門性で高い専門性でリピート率は95%以上。10,000社の採用ノウハウを活かし、最適な業務の切り分けから代行、効果検証など採用成功まで伴走いたします。</p>
             <div class="t0_l50 width_100" style="text-align: right; left: 30%; top: -12vw;">
               <img class="width_32 undrag" src="../img/sect_3/sect_3_man-1.png" alt="">
             </div>
@@ -1158,7 +1163,7 @@
             <p class="noto_bold txt_right txt_bpad_4" style="color: #008DDC; font-size: 20vw; line-height: 1;">02</p>
             <p class="noto_bold font_125"><span class="noto_bold" style="color: #008DDC;">採用戦略</span>と<br><span class="noto_bold" style="color: #008DDC;">運用フロー</span>の構築を徹底サポート</p>
             <div class="space_2"></div>
-            <p class="noto_medium font_75 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、成功まで伴走。</p>
+            <p class="noto_medium font_75 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、後工程支援が強みです。</p>
             <div class="t0_l50 width_100" style="top: -3vw; left: 55%;">
               <img class="width_62 undrag" src="../img/sect_3/sect_3_man-2.png" alt="">
             </div>
@@ -1187,7 +1192,7 @@
           </div>
           <div class="space_3"></div>
           <div class="wrapper_85">
-            <a class="noto_bold block box_radius_15 line_h_250 font_125 white" style="background: #008edc;">採用活動支援サービスの主な内容</a>
+            <a class="noto_bold block box_radius_15 line_h_250 font_125 white" style="background: #008edc;">採用代行サービスの主な内容</a>
           </div>
           <div class="space_3"></div>
           <div class="wrapper_100">
@@ -1350,7 +1355,7 @@
           <img class="width_76 undrag" src="../img/sect_4/sect_4_ttl-sp.png" alt="">
           <div class="space_1"></div>
           <div class="wrapper_100">
-            <a class="noto_bold width_100 block box_radius_15 white font_125 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.1em;">採用活動支援サービスの<br>主な内容</a>
+            <a class="noto_bold width_100 block box_radius_15 white font_125 block line_h_150 txt_tpad_2 txt_bpad_2" style="background: #008ddc; letter-spacing: 0.1em;">採用代行サービスの<br>主な内容</a>
           </div>
           <div class="space_5"></div>
           <!-- ITEM 1 -->
@@ -1486,14 +1491,14 @@
                 <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 3px 3px 10px 2px rgb(0 0 0 / 20%);">
                   <img class="width_83 undrag" src="../img/sect_5/sect_5_ttl-3.png" alt="">
                   <div class="space_1"></div>
-                  <p class="noto_medium font_65 line_h_200" style="padding-bottom: 0.2vw;">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
+                  <p class="noto_medium font_65 line_h_200" style="padding-bottom: 0.2vw;">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募の取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
                   <div class="space_2"></div>
                   <div class="wrapper_90">
                     <img class="width_100 undrag" src="../img/sect_5/sect_5_work-3.png" alt="">
                   </div>
                   <div class="space_2"></div>
                   <ul>
-                    <li class="noto_regular font_75 line_h_200">■適したダイレクトリクルーティング媒体の選定</li>
+                    <li class="noto_regular font_75 line_h_200">■最適なダイレクトリクルーティング媒体の選定</li>
                     <li class="noto_regular font_75 line_h_200">■スカウト文面やメールテンプレート等の設定</li>
                     <li class="noto_regular font_75 line_h_200">■スカウトの個別カスタマイズ、配信</li>
                     <li class="noto_regular font_75 line_h_200">■求人票の更新</li>
@@ -1514,7 +1519,7 @@
                   </div>
                   <div class="space_2"></div>
                   <ul>
-                    <li class="noto_regular font_75 line_h_200">■内定の旨ご連絡</li>
+                    <li class="noto_regular font_75 line_h_200">■内定通知</li>
                     <li class="noto_regular font_75 line_h_200">■入社意思確認の回収、追い掛け連絡</li>
                     <li class="noto_regular font_75 line_h_200">■入社前事前確認事項の回収</li>
                     <li class="noto_regular font_75 line_h_200">■入社書類の準備</li>
@@ -1585,14 +1590,14 @@
           <div class="box_radius_10 txt_tpad_2 txt_bpad_2 txt_lpad_2 txt_rpad_2 txt_left" style="box-shadow: 5px 5px 20px 5px rgb(0 0 0 / 20%);">
             <img class="width_80 undrag" src="../img/sect_5/sect_5_ttl-3.png" alt="">
             <div class="space_1"></div>
-            <p class="noto_medium font_65 line_h_200">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
+            <p class="noto_medium font_65 line_h_200">ダイレクトリクルーティング媒体を使用し、<span class="noto_medium font_65 line_h_200" style="color: #ff9800;">求職者に響く、個別カスタマイズを加えたスカウト</span>をお送り致します。スカウト応募後には、すぐに応募受付を行う事で、応募の取りこぼしを致しません。貴社に合った、利用媒体の選定から携わる事も可能です。</p>
             <div class="space_2"></div>
             <div class="wrapper_90">
               <img class="width_100 undrag" src="../img/sect_5/sect_5_work-3.png" alt="">
             </div>
             <div class="space_2"></div>
             <ul>
-              <li class="noto_regular font_75 line_h_200">■適したダイレクトリクルーティング媒体の選定</li>
+              <li class="noto_regular font_75 line_h_200">■最適なダイレクトリクルーティング媒体の選定</li>
               <li class="noto_regular font_75 line_h_200">■スカウト文面やメールテンプレート等の設定</li>
               <li class="noto_regular font_75 line_h_200">■スカウトの個別カスタマイズ、配信</li>
               <li class="noto_regular font_75 line_h_200">■求人票の更新</li>
@@ -1612,7 +1617,7 @@
             </div>
             <div class="space_2"></div>
             <ul>
-              <li class="noto_regular font_75 line_h_200">■内定の旨ご連絡</li>
+              <li class="noto_regular font_75 line_h_200">■内定通知</li>
               <li class="noto_regular font_75 line_h_200">■入社意思確認の回収、追い掛け連絡</li>
               <li class="noto_regular font_75 line_h_200">■入社前事前確認事項の回収</li>
               <li class="noto_regular font_75 line_h_200">■入社書類の準備</li>
@@ -2047,29 +2052,6 @@
                   <div class="space_1"></div>
                   <p class="white noto_regular font_60 txt_justify" style="line-height: 22px;">
                     採用代行（RPO）のサービスもさることながら、定期ミーティングでの振り返りのクオリティや、採用にかけるコストを抑えつつも採用率を向上させるための改善提案、分析力にも長けており、正直驚いています。数値もまさかここまで改善されるとは思っていなかったので、本当に良かったなと思っています。
-                  </p>
-                  <div class="space_1"></div>
-                </div>
-              </div>
-            </li>
-            <!-- slider 3 -->
-            <li>
-              <div class="bg_img">
-                <img src="../img/sect_7/slider-img01.png" alt="" class="undrag width_100" />
-                <div class="txt_left txt_lpad_1 txt_rpad_1" style="background-color: #008edc; height: 100%;">
-                  <div class="space_1"></div>
-                  <p class="white noto_medium line_h_200" style="font-size: 1.1vw;">
-                    二人三脚で原稿作成をおこなって<br>
-                    いただいたこともあり、応募が当初想定の<br>
-                    100倍近く来たんです（笑）
-                  </p>
-                  <div class="space_1"></div>
-                  <div class="space_05"></div>
-                  <p class="white noto_medium font_75 txt_bpad_05" style="border-bottom: 1px solid #fff;">株式会社ベイス様</p>
-                  <div class="space_05"></div>
-                  <p class="white noto_regular font_60 txt_justify" style="line-height: 22px;">
-                    「法人営業」や「ルートセールス」などの仕事内容をあらわすものが中々実態に当てはまらず、「いかに求職者とのミスマッチを無くし、かつ魅力を伝え応募してもらうか」が非常に難しい状態でした。これをゼロベースから一緒に考えていただけたのは、非常にありがたかったです。<br>
-                    結果的に、「当初想定の約6割の予算で、5名採用目標に対して6名の採用」と、大成功でした。また、実はものすごく想定外だったのが、二人三脚で原稿作成をおこなっていただいたこともあり、応募が当初想定の100倍近く来たんです（笑）。しかし、応募者へのメールや電話の対応もネオキャリアのほうでしっかりと代行しておこなってもらったので、歩留まりを下げることなく採用が成功できたのだと思います。
                   </p>
                   <div class="space_1"></div>
                 </div>

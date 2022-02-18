@@ -2057,6 +2057,58 @@
                 </div>
               </div>
             </li>
+            <!-- slider 3 -->
+            <li>
+              <div class="bg_img">
+                <img src="../img/sect_7/slider-img03.png" alt="" class="undrag width_100" />
+                <div class="txt_left txt_lpad_1 txt_rpad_1" style="background-color: #008edc; height: 100%;">
+                  <div class="space_1"></div>
+                  <p class="white noto_medium line_h_200" style="font-size: 1.1vw;">
+                    人事の一員としてご対応いただいて<br>
+                    いるかの様に「どうすれば良いか」を<br>
+                    一緒に考えて下さっています。
+                  </p>
+                  <div class="space_1"></div>
+                  <div class="space_05"></div>
+                  <p class="white noto_medium font_75 txt_bpad_05" style="border-bottom: 1px solid #fff;">教育開発出版株式会社様</p>
+                  <div class="space_05"></div>
+                  <p class="white noto_regular font_60 txt_justify" style="line-height: 22px;">
+                    「動員したいターゲット層がここだから説明会はこう作る」とか「それであれば説明会の動員メールはこんな文章がいい」というように、採用に至るまでのプロセスに一連の統一感を持たせられるようになったのは、すごく良かったなと思います。特に説明会の参加率がかなり大きく変わりました。毎回8割近くの参加率が保てています。
+                  </p>
+                  <div class="space_1"></div>
+                  <p class="white noto_regular font_60 txt_justify" style="line-height: 22px;">
+                    業務のアウトソーシングというと、「やってください」と依頼したことを「やっておきます」というだけのサービスになりがちなのかなと少し思っていました。ですが、一緒に考えてくださった上で、「もしかするとこちらの方がいいかもしれません」といった風にご提案をしていただいています。そこは、他社にはない魅力ではないかと思っていて、本当に助かっています。
+                  </p>
+                  <div class="space_1"></div>
+                </div>
+              </div>
+            </li>
+            <!-- slider 4 -->
+            <li>
+              <div class="bg_img">
+                <img src="../img/sect_7/slider-img04.png" alt="" class="undrag width_100" />
+                <div class="txt_left txt_lpad_1 txt_rpad_1" style="background-color: #008edc; height: 100%;">
+                  <div class="space_1"></div>
+                  <p class="white noto_medium line_h_200" style="font-size: 1.1vw;">
+                    作業代行だけでなく<br>
+                    全体的なアドバイスをいただけることにも<br>
+                    満足しています。
+                  </p>
+                  <div class="space_1"></div>
+                  <div class="space_05"></div>
+                  <p class="white noto_medium font_75 txt_bpad_05" style="border-bottom: 1px solid #fff;">株式会社アイティフォー様</p>
+                  <div class="space_05"></div>
+                  <p class="white noto_regular font_60 txt_justify" style="line-height: 22px;">
+                    導入前後で説明会の参加者数を比べると、前年比160％増でした。これは「セミナーに参加しませんか」という促進メールを定期的に学生へ送っていただいたからだと思います。そのような促進メールを以前はあまり送れていませんでした。さらに、筆記試験の合格者から一次面接の予約が85％ぐらいあるんですね。それも「面接の予約をしませんか」というアナウンスをこまめにしていただいていたからだと思います。
+                  </p>
+                  <div class="space_1"></div>
+                  <p class="white noto_regular font_60 txt_justify" style="line-height: 22px;">
+                    作業代行だけでなく全体的なアドバイスをいただけることにも満足しています。いつも先まわりして私たちのやるべきことをご提案いただけるところが、真に弊社のことをご理解いただいているパートナーさんならではのサービスだと思っています。
+                  </p>
+                  <div class="space_1"></div>
+                </div>
+              </div>
+            </li>
           </ul>
         </div>
       </div>
@@ -2116,6 +2168,56 @@
                   <div class="space_1"></div>
                   <p class="white noto_regular font_75 txt_justify line_h_200">
                     採用代行（RPO）のサービスもさることながら、定期ミーティングでの振り返りのクオリティや、採用にかけるコストを抑えつつも採用率を向上させるための改善提案、分析力にも長けており、正直驚いています。数値もまさかここまで改善されるとは思っていなかったので、本当に良かったなと思っています。
+                  </p>
+                  <div class="space_1"></div>
+                </div>
+              </div>
+            </li>
+            <!-- slider 3 -->
+            <li>
+              <div class="bg_img">
+                <img src="../img/sect_7/slider-img03.png" alt="" class="undrag width_100" />
+                <div class="txt_left txt_lpad_1 txt_rpad_1" style="background-color: #008edc; height: 100%;">
+                  <div class="space_1"></div>
+                  <p class="white noto_bold font_100 line_h_150" style="letter-spacing: 0.12em;">
+                    人事の一員としてご対応いただいて<br>
+                    いるかの様に「どうすれば良いか」を<br>
+                    一緒に考えて下さっています。
+                  </p>
+                  <div class="space_3"></div>
+                  <p class="white noto_medium font_100 txt_bpad_2" style="border-bottom: 1px solid #fff;">教育開発出版株式会社様</p>
+                  <div class="space_2"></div>
+                  <p class="white noto_regular font_75 txt_justify line_h_200">
+                    「動員したいターゲット層がここだから説明会はこう作る」とか「それであれば説明会の動員メールはこんな文章がいい」というように、採用に至るまでのプロセスに一連の統一感を持たせられるようになったのは、すごく良かったなと思います。特に説明会の参加率がかなり大きく変わりました。毎回8割近くの参加率が保てています。
+                  </p>
+                  <div class="space_1"></div>
+                  <p class="white noto_regular font_75 txt_justify line_h_200">
+                    業務のアウトソーシングというと、「やってください」と依頼したことを「やっておきます」というだけのサービスになりがちなのかなと少し思っていました。ですが、一緒に考えてくださった上で、「もしかするとこちらの方がいいかもしれません」といった風にご提案をしていただいています。そこは、他社にはない魅力ではないかと思っていて、本当に助かっています。
+                  </p>
+                  <div class="space_1"></div>
+                </div>
+              </div>
+            </li>
+            <!-- slider 4 -->
+            <li>
+              <div class="bg_img">
+                <img src="../img/sect_7/slider-img04.png" alt="" class="undrag width_100" />
+                <div class="txt_left txt_lpad_1 txt_rpad_1" style="background-color: #008edc; height: 100%;">
+                  <div class="space_1"></div>
+                  <p class="white noto_bold font_100 line_h_150" style="letter-spacing: 0.12em;">
+                    作業代行だけでなく<br>
+                    全体的なアドバイスをいただけることにも<br>
+                    満足しています。
+                  </p>
+                  <div class="space_3"></div>
+                  <p class="white noto_medium font_100 txt_bpad_2" style="border-bottom: 1px solid #fff;">株式会社アイティフォー様</p>
+                  <div class="space_2"></div>
+                  <p class="white noto_regular font_75 txt_justify line_h_200">
+                    導入前後で説明会の参加者数を比べると、前年比160％増でした。これは「セミナーに参加しませんか」という促進メールを定期的に学生へ送っていただいたからだと思います。そのような促進メールを以前はあまり送れていませんでした。さらに、筆記試験の合格者から一次面接の予約が85％ぐらいあるんですね。それも「面接の予約をしませんか」というアナウンスをこまめにしていただいていたからだと思います。
+                  </p>
+                  <div class="space_1"></div>
+                  <p class="white noto_regular font_75 txt_justify line_h_200">
+                    作業代行だけでなく全体的なアドバイスをいただけることにも満足しています。いつも先まわりして私たちのやるべきことをご提案いただけるところが、真に弊社のことをご理解いただいているパートナーさんならではのサービスだと思っています。
                   </p>
                   <div class="space_1"></div>
                 </div>

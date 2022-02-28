@@ -37,6 +37,10 @@
   <!-- HTML：CDNリンクを貼り付け -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.4.1/dist/css/yakuhanjp.min.css">
   <meta http-equiv="imagetoolbar" content="no" />
+
+  <!-- Animation Libraries -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
   <!-- 検索有無設定 -->
   <!-- jquery読込 -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -914,10 +918,10 @@
             <div class="space_5"></div>
             <div class="space_3"></div>
             <div class="b0_l50" style="width: 100%; bottom: -10vw;">
-              <img class="width_100 undrag" src="../img/banner/banner_img_4.png" alt="">
+              <img class="width_100 undrag" src="../img/banner/banner_img_4.png" alt="" data-aos="fade-up" data-aos-duration="2000">
             </div>
             <div class="b0_l50" style="width: 100%; bottom: -10vw;">
-              <p class="noto_regular font_65">調査概要：採用代行会社10社を対象にしたサイトイメージ調査より。<br>調査実施：株式会社ショッパーズアイ調べ（2021年2月時点）</p>
+              <p class="noto_regular font_65" data-aos="fade-up" data-aos-duration="2000">調査概要：採用代行会社10社を対象にしたサイトイメージ調査より。<br>調査実施：株式会社ショッパーズアイ調べ（2021年2月時点）</p>
             </div>
           </div>
         </div>
@@ -934,11 +938,11 @@
         </div>
         <div class="b0_l50 width_100" style="bottom: -35vw;">
           <div class="wrapper_100">
-            <img class="width_100 undrag" src="../img/banner/banner_img_4-sp.png" alt="">
+            <img class="width_100 undrag" src="../img/banner/banner_img_4-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
           </div>
         </div>
         <div class="b0_l50" style="width: 100%; bottom: -41vw;">
-          <p class="noto_regular font_65">調査概要：採用代行会社10社を対象にしたサイトイメージ調査より。<br>調査実施：株式会社ショッパーズアイ調べ（2021年2月時点）</p>
+          <p class="noto_regular font_65" data-aos="fade-up" data-aos-duration="2000">調査概要：採用代行会社10社を対象にしたサイトイメージ調査より。<br>調査実施：株式会社ショッパーズアイ調べ（2021年2月時点）</p>
         </div>
       </div>
     </section>
@@ -1004,12 +1008,12 @@
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-1.png" alt="">
               </div>
               <div class="width_58">
-                <img class="width_100 undrag tspace_05" src="../img/sect_2/sect_2_box-1.png" alt="">
+                <img class="width_100 undrag tspace_05" src="../img/sect_2/sect_2_box-1.png" alt="" data-aos="fade-up" data-aos-duration="2000">
               </div>
             </div>
             <div class="flex" style="margin-top: -1.2vw; margin-right: 2vw; justify-content: flex-end;">
               <div class="width_54">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2.png" alt="">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2.png" alt="" data-aos="fade-up" data-aos-duration="2000">
               </div>
               <div class="width_16 bg_img txt_rpad_1" style="right: 1vw; top: -0.7vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-2.png" alt="">
@@ -1020,12 +1024,12 @@
                 <img class="width_90 bg_img undrag" src="../img/sect_2/sect_2_woman-1.png" alt="" style="top: -0.9vw;">
               </div>
               <div class="width_58">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3.png" alt="">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3.png" alt="" data-aos="fade-up" data-aos-duration="2000">
               </div>
             </div>
             <div class="flex" style="margin-top: -1.2vw; margin-right: 2vw; justify-content: flex-end;">
               <div class="width_54">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4.png" alt="">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4.png" alt="" data-aos="fade-up" data-aos-duration="2000">
               </div>
               <div class="width_16 rspace_5 bg_img txt_rpad_1" style="right: 1vw; top: -0.7vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-3.png" alt="">
@@ -1036,7 +1040,7 @@
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-2.png" alt="">
               </div>
               <div class="width_58">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5.png" alt="">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5.png" alt="" data-aos="fade-up" data-aos-duration="2000">
               </div>
             </div>
           </div>
@@ -1055,12 +1059,12 @@
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-1.png" alt="">
             </div>
             <div class="width_75">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-1-sp.png" alt="">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-1-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
             </div>
           </div>
           <div class="flex bg_img" style="margin-top: -3.6vw; justify-content: flex-start;">
             <div class="width_82">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2-sp.png" alt="">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
             </div>
             <div class="width_28 tr_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-2.png" alt="">
@@ -1071,12 +1075,12 @@
               <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-1.png" alt="">
             </div>
             <div class="width_78">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3-sp.png" alt="">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
             </div>
           </div>
           <div class="flex bg_img" style="margin-top: -2.6vw; justify-content: flex-start;">
             <div class="width_79">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4-sp.png" alt="">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
             </div>
             <div class="width_28 tr_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-3.png" alt="">
@@ -1087,7 +1091,7 @@
               <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-2.png" alt="">
             </div>
             <div class="width_75">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5-sp.png" alt="">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
             </div>
           </div>
         </div>
@@ -1126,7 +1130,7 @@
               <p class="noto_bold font_800 txt_left txt_lpad_2" style="color: #008EDC; margin-top: -3.5vw; line-height: 1;">02</p>
               <p class="noto_bold font_150 txt_lpad_2 txt_tpad_1 txt_left"><span class="noto_bold" style="color: #008DDC;">採用戦略</span>と<span class="noto_bold" style="color:#008ddc">運用フロー</span>の<br>
                 構築を徹底サポート</p>
-              <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、後工程支援が強みです。</p>
+              <p class="noto_medium font_75 txt_left txt_lpad_2 txt_tpad_1 txt_bpad_2 txt_rpad_2 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援が強みです。</p>
             </div>
           </div>
           <div class="space_5"></div>
@@ -1163,7 +1167,7 @@
             <p class="noto_bold txt_right txt_bpad_4" style="color: #008DDC; font-size: 20vw; line-height: 1;">02</p>
             <p class="noto_bold font_125"><span class="noto_bold" style="color: #008DDC;">採用戦略</span>と<br><span class="noto_bold" style="color: #008DDC;">運用フロー</span>の構築を徹底サポート</p>
             <div class="space_2"></div>
-            <p class="noto_medium font_75 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援で、後工程支援が強みです。</p>
+            <p class="noto_medium font_75 line_h_200">新卒・中途・アルバイトにあわせた幅広いサービスが提供可能。クライアントの課題に合わせたワンストップ支援。また、さまざまな採用手法の中から企業の課題に合わせて最も効果的な採用手法戦略・選定。最適な採用手法選定×応募者を取り逃がさない後工程支援が強みです。</p>
             <div class="t0_l50 width_100" style="top: -3vw; left: 55%;">
               <img class="width_62 undrag" src="../img/sect_3/sect_3_man-2.png" alt="">
             </div>
@@ -1646,7 +1650,7 @@
             <img src="../img/sect_6/tittle.png" alt="" class="undrag txt_bpad_3 width_100" />
           </div>
           <!-- card 1 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="flex flex_start flex_start_jc">
                 <img src="../img/sect_6/card-ttl01.png" class="txt_lpad_2 width_35" alt="">
@@ -1697,7 +1701,7 @@
           <!-- space -->
           <div class="space_2"></div>
           <!-- card 2 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="flex flex_start flex_start_jc">
                 <img src="../img/sect_6/card-ttl02.png" class="txt_lpad_2 width_35" alt="">
@@ -1751,7 +1755,7 @@
           <!-- space -->
           <div class="space_2"></div>
           <!-- card 3 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="flex flex_start flex_start_jc">
                 <img src="../img/sect_6/card-ttl03.png" class="txt_lpad_2 width_35" alt="">
@@ -1818,7 +1822,7 @@
           </div>
           <div class="space_5"></div>
           <!-- card 1 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="space_3"></div>
               <div class="flex" style="justify-content: center;">
@@ -1879,7 +1883,7 @@
           <div class="space_5"></div>
 
           <!-- card 2 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="space_3"></div>
               <div class="flex" style="justify-content: center;">
@@ -1938,7 +1942,7 @@
           <div class="space_5"></div>
 
           <!-- card 3 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="space_3"></div>
               <div class="flex" style="justify-content: center;">
@@ -2515,7 +2519,6 @@
         </div>
       </div>
     </section>
-
     <section class="sect_9" id="sect_9" style="margin-top: -6vw; padding-top: 6vw;">
       <div class="view_pc txt_bpad_5">
         <div class="cont_wrapper_55">
@@ -2706,7 +2709,6 @@
         <div class="space_5"></div>
       </div>
     </section>
-
     <section class="sect_10" id="sect_10">
       <div class="view_pc" style="margin-top: -10vw; padding-top: 10vw"></div>
       <div class="view_tabsp" style="margin-top: -20vw; padding-top: 20vw"></div>
@@ -3082,6 +3084,16 @@
       $header = $(this);
       $content = $header.next();
       $content.slideToggle(500, function() {});
+    });
+  </script>
+
+  <!-- Fade Animation -->
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+  <script>
+    AOS.init({
+      once: true
     });
   </script>
 

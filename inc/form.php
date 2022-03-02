@@ -1008,12 +1008,12 @@
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-1.png" alt="">
               </div>
               <div class="width_58">
-                <img class="width_100 undrag tspace_05" src="../img/sect_2/sect_2_box-1.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+                <img class="width_100 undrag tspace_05" src="../img/sect_2/sect_2_box-1.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
               </div>
             </div>
             <div class="flex" style="margin-top: -1.2vw; margin-right: 2vw; justify-content: flex-end;">
               <div class="width_54">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
               </div>
               <div class="width_16 bg_img txt_rpad_1" style="right: 1vw; top: -0.7vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-2.png" alt="">
@@ -1024,12 +1024,12 @@
                 <img class="width_90 bg_img undrag" src="../img/sect_2/sect_2_woman-1.png" alt="" style="top: -0.9vw;">
               </div>
               <div class="width_58">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
               </div>
             </div>
             <div class="flex" style="margin-top: -1.2vw; margin-right: 2vw; justify-content: flex-end;">
               <div class="width_54">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
               </div>
               <div class="width_16 rspace_5 bg_img txt_rpad_1" style="right: 1vw; top: -0.7vw;">
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_man-3.png" alt="">
@@ -1040,7 +1040,7 @@
                 <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-2.png" alt="">
               </div>
               <div class="width_58">
-                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+                <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
               </div>
             </div>
           </div>
@@ -1059,12 +1059,12 @@
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-1.png" alt="">
             </div>
             <div class="width_75">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-1-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-1-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
             </div>
           </div>
           <div class="flex bg_img" style="margin-top: -3.6vw; justify-content: flex-start;">
             <div class="width_82">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-2-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
             </div>
             <div class="width_28 tr_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-2.png" alt="">
@@ -1075,12 +1075,12 @@
               <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-1.png" alt="">
             </div>
             <div class="width_78">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-3-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
             </div>
           </div>
           <div class="flex bg_img" style="margin-top: -2.6vw; justify-content: flex-start;">
             <div class="width_79">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-4-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
             </div>
             <div class="width_28 tr_0">
               <img class="width_100 undrag" src="../img/sect_2/sect_2_man-3.png" alt="">
@@ -1091,7 +1091,7 @@
               <img class="width_100 undrag" src="../img/sect_2/sect_2_woman-2.png" alt="">
             </div>
             <div class="width_75">
-              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000">
+              <img class="width_100 undrag" src="../img/sect_2/sect_2_box-5-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
             </div>
           </div>
         </div>
@@ -1650,7 +1650,7 @@
             <img src="../img/sect_6/tittle.png" alt="" class="undrag txt_bpad_3 width_100" />
           </div>
           <!-- card 1 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000" data-aos-offset="300">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="flex flex_start flex_start_jc">
                 <img src="../img/sect_6/card-ttl01.png" class="txt_lpad_2 width_35" alt="">
@@ -1701,7 +1701,7 @@
           <!-- space -->
           <div class="space_2"></div>
           <!-- card 2 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000" data-aos-offset="300">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="flex flex_start flex_start_jc">
                 <img src="../img/sect_6/card-ttl02.png" class="txt_lpad_2 width_35" alt="">
@@ -1755,7 +1755,7 @@
           <!-- space -->
           <div class="space_2"></div>
           <!-- card 3 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000" data-aos-offset="300">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="flex flex_start flex_start_jc">
                 <img src="../img/sect_6/card-ttl03.png" class="txt_lpad_2 width_35" alt="">
@@ -1822,7 +1822,7 @@
           </div>
           <div class="space_5"></div>
           <!-- card 1 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000" data-aos-offset="300">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="space_3"></div>
               <div class="flex" style="justify-content: center;">
@@ -1883,7 +1883,7 @@
           <div class="space_5"></div>
 
           <!-- card 2 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000" data-aos-offset="300">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="space_3"></div>
               <div class="flex" style="justify-content: center;">
@@ -1942,7 +1942,7 @@
           <div class="space_5"></div>
 
           <!-- card 3 -->
-          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000">
+          <div class="bg_white" style="box-shadow: 2px 5px 20px rgb(0 0 0 / 25%);" data-aos="fade-right" data-aos-duration="2000" data-aos-offset="300">
             <div class="txt_left txt_tpad_1 txt_bpad_1" style="background-color: #008edc">
               <div class="space_3"></div>
               <div class="flex" style="justify-content: center;">
@@ -3014,8 +3014,6 @@
       </div>
       <div class="space_3"></div>
     </section>
-
-
   </main>
 
   <footer>

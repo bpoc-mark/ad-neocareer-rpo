@@ -3014,8 +3014,6 @@
       </div>
       <div class="space_3"></div>
     </section>
-
-
   </main>
 
   <footer>

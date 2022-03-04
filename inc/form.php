@@ -2237,14 +2237,14 @@
         <div class="wrapper_100" style="background: #ecf8ff">
           <div class="space_2"></div>
           <div class="wrapper_30">
-            <p class="noto_medium font_100" style="color: #444444;">
+            <p class="noto_medium font_100" style="color: #444444;" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
               採用代行を詳しく知りたい方はこちら
             </p>
           </div>
           <div class="space_05"></div>
           <div class="wrapper_50">
             <div class="wrapper_85">
-              <a href="#sect_10" class="width_100 block font_125 noto_bold white line_h_250 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">採用代行サービス徹底ガイドお申込み</a>
+              <a href="#sect_10" class="width_100 block font_125 noto_bold white line_h_250 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">採用代行サービス徹底ガイドお申込み</a>
             </div>
           </div>
           <div class="space_2"></div>
@@ -2253,7 +2253,7 @@
           <!-- title -->
           <div class="space_4"></div>
           <div class="wrapper_55">
-            <img src="../img/sect_8/title.png" alt="" class="undrag txt_bpad_3 width_100" />
+            <img src="../img/sect_8/title.png" alt="" class="undrag txt_bpad_3 width_100" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300" />
           </div>
           <!-- content -->
           <div>
@@ -2261,7 +2261,7 @@
               <div class="space_05"></div>
               <div class="flex" style="justify-content: space-between;">
                 <!-- step 1 -->
-                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300" data-aos-delay="300">
                   <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
                     <p class="noto_bold font_100">STEP</p>
                     <p class="noto_bold font_300" style="line-height: 60%; color: #444;">01</p>
@@ -2278,7 +2278,7 @@
                 </div>
 
                 <!-- step 2 -->
-                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300" data-aos-delay="600">
                   <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
                     <p class="noto_bold font_100">STEP</p>
                     <p class="noto_bold font_300" style="line-height: 60%; color: #444;">02</p>
@@ -2295,7 +2295,7 @@
                 </div>
 
                 <!-- step 3 -->
-                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300" data-aos-delay="900">
                   <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
                     <p class="noto_bold font_100">STEP</p>
                     <p class="noto_bold font_300" style="line-height: 60%; color: #444;">03</p>
@@ -2312,7 +2312,7 @@
                 </div>
 
                 <!-- step 4 -->
-                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);">
+                <div class="s8_steps bg_white flex bg_img width_23" style="border-radius: 10px; flex-direction:column;align-items: center; box-shadow: 2px 2px 14px -1px rgb(0 0 0 / 34%);" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300" data-aos-delay="1200">
                   <div class="txt_center t0_l50" style="top: -15% !important; color: #444;">
                     <p class="noto_bold font_100">STEP</p>
                     <p class="noto_bold font_300" style="line-height: 60%; color: #444;">04</p>
@@ -2357,27 +2357,27 @@
 
         <div class="wrapper_90">
           <div class="wrapper_75">
-            <p class="noto_medium" style="font-size: 3.1vw;">採用代行を詳しく知りたい方はこちら</p>
+            <p class="noto_medium" style="font-size: 3.1vw;" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">採用代行を詳しく知りたい方はこちら</p>
           </div>
         </div>
         <div class="space_2"></div>
         <div class="wrapper_90">
           <div class="wrapper_90">
-            <a href="#sect_10" class="width_100 block font_125 noto_bold white line_h_125 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%); padding: 2vw !important;">採用代行サービス<br>徹底ガイドお申込み</a>
+            <a href="#sect_10" class="width_100 block font_125 noto_bold white line_h_125 box_radius_9999 square_btn" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%); padding: 2vw !important;" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">採用代行サービス<br>徹底ガイドお申込み</a>
           </div>
         </div>
         <div class="space_5"></div>
         <div class="space_2"></div>
 
         <div class="wrapper_90">
-          <img class="width_50 undrag" src="../img/sect_8/title-sp.png" alt="">
+          <img class="width_50 undrag" src="../img/sect_8/title-sp.png" alt="" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="300">
         </div>
 
         <div class="space_2"></div>
         <!-- step 1 -->
         <div style="background-color: #ff9800;">
           <div class="space_5"></div>
-          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300">
             <div>
               <div class="flex" style="align-items: center; justify-content: flex-start;">
                 <div class="txt_center" style="top: -15% !important; color: #444;">
@@ -2404,7 +2404,7 @@
         <!-- step 2 -->
         <div style="background-color: #ff9800;">
           <div class="space_3"></div>
-          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300">
             <div>
               <div class="flex" style="align-items: center; justify-content: flex-start;">
                 <div class="txt_center" style="top: -15% !important; color: #444;">
@@ -2431,7 +2431,7 @@
         <!-- step 3 -->
         <div style="background-color: #ff9800;">
           <div class="space_3"></div>
-          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+          <div class="s8_steps_sp txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300">
             <div>
               <div class="flex" style="align-items: center; justify-content: flex-start;">
                 <div class="txt_center" style="top: -15% !important; color: #444;">
@@ -2459,7 +2459,7 @@
         <!-- step 4 -->
         <div style="background-color: #ff9800;">
           <div class="space_3"></div>
-          <div class="s8_steps txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;">
+          <div class="s8_steps txt_tpad_1 txt_bpad_1 txt_lpad_1 txt_rpad_1 bg_white flex bg_img wrapper_90" style="border-radius: 10px; justify-content: space-between; align-items: center;" data-aos="fade-up" data-aos-duration="1500" data-aos-offset="300">
             <div>
               <div class="flex" style="align-items: center; justify-content: flex-start;">
                 <div class="txt_center" style="top: -15% !important; color: #444;">

@@ -960,14 +960,14 @@
         <div class="wrapper_100" style="background: #ecf8ff">
           <div class="space_2"></div>
           <div class="wrapper_100">
-            <p class="noto_medium font_100">
+            <p class="noto_medium font_100" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="200">
               まずは採用に関するお悩みを気軽にご相談ください。
             </p>
           </div>
           <div class="space_05"></div>
           <div class="wrapper_50">
             <div class="wrapper_85">
-              <a href="#sect_10" class="width_100 square_btn block font_125 noto_bold white line_h_250 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問い合わせはこちら</a>
+              <a href="#sect_10" class="width_100 square_btn block font_125 noto_bold white line_h_250 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="200">資料請求・お問い合わせはこちら</a>
             </div>
           </div>
           <div class="space_2"></div>
@@ -984,13 +984,13 @@
         <div class="space_2"></div>
         <div class="wrapper_90">
           <div class="wrapper_90">
-            <a href="#sect_10" class="width_100 square_btn block font_125 noto_bold white line_h_300 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);">資料請求・お問合せ</a>
+            <a href="#sect_10" class="width_100 square_btn block font_125 noto_bold white line_h_300 box_radius_9999" style="background: #ff9700;box-shadow: 5px 5px 11px -1px rgb(0 0 0 / 34%);" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="200">資料請求・お問合せ</a>
           </div>
         </div>
       </div>
       <div class="space_2 view_tabsp"></div>
       <div class="wrapper_75 view_tabsp">
-        <p class="noto_medium" style="font-size: 3.1vw;">まずは採用に関するお悩みを気軽にご相談ください。</p>
+        <p class="noto_medium" style="font-size: 3.1vw;" data-aos="fade-up" data-aos-duration="2000" data-aos-offset="200">まずは採用に関するお悩みを気軽にご相談ください。</p>
       </div>
       </div>
     </section>

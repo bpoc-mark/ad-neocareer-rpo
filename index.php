@@ -112,7 +112,7 @@ if( !empty($clean['btn_confirm'])) {
 		$body .= "--__BOUNDARY__\n";
 	
 		// 管理者へメール送信
-		mb_send_mail('kirk_patrik@bpoc.co.jp,', $admin_reply_subject, $body, $header);
+		mb_send_mail('denver.gomez@bpoc.co.jp,', $admin_reply_subject, $body, $header);
 		
 	} else {
 		$page_flag = 0;
@@ -190,7 +190,7 @@ require_once(dirname(__FILE__)."/inc/confirm.php");
 	// サンクスページへリダイレクト
 // $url = "https://www.e-vision.co.jp/lp/inc/thanks.php";
 // header('Location: ' . $url, true, 301);
-require_once(dirname(__FILE__)."/inc/thanks.html");
+require_once(dirname(__FILE__)."/inc/thanks.php");
 exit;
  ?>
 <?php else:
